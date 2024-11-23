@@ -1,5 +1,12 @@
 [
     {
+        "title": "Tesla breaks a record never seen in history: 1 trillion to dominate the world",
+        "description": "Tesla breaks records, reaching $1 trillion in market value under Elon Musk's leadership, positioning the company as a leader in the electric vehicle and energy industries.",
+        "image": "https://www.ecoticias.com/en/wp-content/uploads/2024/11/tesla-InsideEVs-1.jpg",
+        "date": "2024-11-23T14:50:57.000Z",
+        "url": "https://www.ecoticias.com/en/tesla-breaks-market-value-elon-musk/8666/"
+    },
+    {
         "title": "Family stunned as replacing car's battery costs more than buying electric car",
         "description": "A family bought an electric Ford Focus that had 60,000 miles on it for $11,000 for them to have to fork out for a new battery just six months later",
         "image": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/blte231cc873499129d/671a4dd7553f4869f133d3eb/family-stunned-replacing-car-battery-electric.png",
@@ -26,6 +33,13 @@
         "image": "https://images.hindustantimes.com/auto/img/2024/11/22/1600x900/Tesla_1693217478438_1732319675080.jpg",
         "date": "2024-11-23T02:48:50.000Z",
         "url": "https://auto.hindustantimes.com/auto/electric-vehicles/black-friday-deal-tesla-announces-offer-for-unlimited-overnight-ev-charging-41732319600759.html"
+    },
+    {
+        "title": "VinFast officially delivers VF 5 electric cars in Indonesia",
+        "description": "JAKARTA, INDONESIA -   Media OutReach Newswire - 22 November 2024 - VinFast Auto has officially launched the delivery of its electric VF 5, at the Gaikindo...",
+        "image": "https://images.media-outreach.com/Thumb/800x418/569242/PhotoVinfast.jpg",
+        "date": "2024-11-22T23:08:00.000Z",
+        "url": "https://www.media-outreach.com/news/indonesia/2024/11/22/344115/vinfast-officially-delivers-vf-5-electric-cars-in-indonesia/"
     },
     {
         "title": "Volkswagen confirms its low-cost ID.2 EV is still on track to launch, SUV version to follow",
@@ -91,11 +105,53 @@
         "url": "https://www.telegraph.co.uk/business/2024/11/21/jaguar-teases-polarising-new-electric-car/"
     },
     {
+        "title": "Tesla Pushing To Meet Elon Musk Target. Here's Its Latest Move.",
+        "description": "Tesla is offering three months of free Supercharging and FSD for new EV purchases by year-end.",
+        "image": "https://www.investors.com/wp-content/uploads/2021/01/Stock-Tesla-modelY-01-adobe.jpg",
+        "date": "2024-11-21T01:33:19.000Z",
+        "url": "https://www.investors.com/news/tesla-pushing-to-meet-elon-musk-target-latest-incentive/"
+    },
+    {
+        "title": "Tesla turns to its 'Tesla Electric' utility service to help sell cars",
+        "description": "Tesla is now using ‘Tesla Electric’, its electric utility service in Texas, to help sell cars with a new incentive....",
+        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/12/Tesla-Electric.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "date": "2024-11-19T22:05:40.000Z",
+        "url": "https://electrek.co/2024/11/19/tesla-turns-to-its-tesla-electric-utility-service-to-help-sell-cars/"
+    },
+    {
         "title": "Listed: The cheapest electric cars available in the UK",
         "description": "Cost-effective EVs are rare but growing in number. Here are the 10 cheapest on sale in the UK today",
         "image": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/autocar_cheapest_electric_cars.jpg",
         "date": "2024-11-19T16:20:00.000Z",
         "url": "https://www.autocar.co.uk/car-news/electric-cars/cheapest-electric-cars"
+    },
+    {
+        "title": "The Base Tesla Model Y Lease Price Is Now The Same As The Base Model 3",
+        "description": "That’s even though the Model Y RWD costs $2,500 more than the Model 3 RWD when purchasing with cash.",
+        "image": "https://cdn.motor1.com/images/mgl/0eKJgm/s3/from-left-2024-tesla-model-3-aka-highland-and-tesla-model-y.jpg",
+        "date": "2024-11-19T09:17:41.000Z",
+        "url": "https://insideevs.com/news/741454/tesla-model-y-lease-same-price-model-3/"
+    },
+    {
+        "title": "A 1,526bhp Chinese EV has smashed the four-door Nürburgring record*",
+        "description": "",
+        "image": "https://www.topgear.com/sites/default/files/images/news-article/2024/11/f914679c91b153fdeecab8c32b3420d2/5d162af52a7014bacc59dfb8aa026e5b%20copy.png?w=1280&h=720",
+        "date": "2024-11-19T05:00:00.000Z",
+        "url": "https://www.topgear.com/car-news/electric/a-1526bhp-chinese-ev-has-smashed-four-door-nurburgring-record"
+    },
+    {
+        "title": "A £10k electric car with a 100-mile range would surely be a sales success ",
+        "description": "Mike Rutherford thinks there would be demand for an electric car with a modest 100-mile range if it only cost £10k",
+        "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1731673300/autoexpress/2024/11/Opinion%20-%20cheap%20EV.jpg",
+        "date": "2024-11-17T11:03:32.000Z",
+        "url": "https://www.autoexpress.co.uk/opinion/365048/ps10k-electric-car-100-mile-range-would-surely-be-sales-success"
+    },
+    {
+        "title": "‘I bought a £70k electric car that’s now useless and unfixable’",
+        "description": "Early adopters of Fisker EVs face an ongoing nightmare as company declares bankruptcy",
+        "image": "https://www.telegraph.co.uk/content/dam/money/2024/11/15/TELEMMGLPICT000401791645_17316736560990_trans_NvBQzQNjv4BqMhh8Lws9mZsnOLcCSoQSrNkM9MM8VM3G1BxlGUO4L8Q.jpeg?impolicy=Twitter-Standard",
+        "date": "2024-11-17T07:00:00.000Z",
+        "url": "https://www.telegraph.co.uk/money/electric-car-owners-left-useless-unfixable-vehicles/"
     },
     {
         "title": "Best used electric cars 2024: Top 10 second-hand EVs",
@@ -105,18 +161,18 @@
         "url": "https://www.independent.co.uk/cars/electric-vehicles/best-used-electric-cars-evs-uk-b2611282.html"
     },
     {
+        "title": "Dacia Spring Review 2024, Price & Specs",
+        "description": "Read the definitive Dacia Spring 2024 review from the expert What Car? team. Check specs, prices, performance and compare with similar cars.",
+        "image": "https://media.whatcar.com/wc-image/2024-11/dacia-spring-front-right-driving-main_0.jpg",
+        "date": "2024-11-01T12:00:00.000Z",
+        "url": "https://www.whatcar.com/dacia/spring/hatchback/review/n26964"
+    },
+    {
         "title": "Researchers develop low-cost battery material that could make electric cars cheaper than ever",
         "description": "Researchers at Georgia Institute of Technology say they’ve found a low-cost cathode material that could have a massive impact on the EV market",
         "image": "https://services.meteored.com/img/article/researchers-develop-low-cost-battery-material-that-could-make-electric-cars-cheaper-than-ever-1730118421861_1280.jpg",
         "date": "2024-10-29T15:25:00.000Z",
         "url": "https://www.yourweather.co.uk/news/science/researchers-develop-low-cost-battery-material-that-could-make-electric-cars-cheaper-than-ever.html"
-    },
-    {
-        "title": "EV bargains: why some nearly new electric cars are being heavily discounted ",
-        "description": "We've spotted numerous nearly new EVs with discounts as big as 49% off the list price. Find out why, and how to find similar deals",
-        "image": "https://media.which.gpp.io/prod/images/gm_preview/8b6df6dee755-buying-car-showroom.jpg",
-        "date": "2024-10-25T11:33:12.000Z",
-        "url": "https://www.which.co.uk/news/article/ev-bargains-why-are-some-nearly-new-electric-cars-being-heavily-discounted-aVjuZ4v1e0sM"
     },
     {
         "title": "Electric cars ",
@@ -294,18 +350,25 @@
         "url": "https://www.bbc.com/news/articles/c6282xexxgko"
     },
     {
-        "title": "Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'",
-        "description": "The Model 3 Performance has come a long way since its inception and has a lot going for it, including its price.",
-        "image": "https://cdn.motor1.com/images/mgl/JOAERg/s3/tesla-model-3-performance-vs.-bmw-m3-competition.jpg",
-        "date": "2024-11-23T15:00:13.000Z",
-        "url": "https://insideevs.com/news/741921/tesla-model-3-performance-vs-bmw-m3-competition/"
+        "title": "Dealers Ignore VW, Slap $15,000 Markups On The ID. Buzz",
+        "description": "VW",
+        "image": "https://cdn.motor1.com/images/mgl/G3AE6A/s3/vw-id-buzz-markup-hero.jpg",
+        "date": "2024-11-23T17:00:12.000Z",
+        "url": "https://insideevs.com/news/741991/vw-id-buzz-markups-are-here/"
     },
     {
         "title": "Electric Vehicle News and Analysis ",
         "description": "Read the latest EV news from the U.S. and around the globe including new model reveals, business news, industry insights, latest technology, and more.",
         "image": "https://cdn.motor1.com/custom/share/inside_evs_loadimage.png",
-        "date": "2024-11-23T15:00:13.000Z",
+        "date": "2024-11-23T17:00:12.000Z",
         "url": "https://insideevs.com/news/"
+    },
+    {
+        "title": "Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'",
+        "description": "The Model 3 Performance has come a long way since its inception and has a lot going for it, including its price.",
+        "image": "https://cdn.motor1.com/images/mgl/JOAERg/s3/tesla-model-3-performance-vs.-bmw-m3-competition.jpg",
+        "date": "2024-11-23T15:00:13.000Z",
+        "url": "https://insideevs.com/news/741921/tesla-model-3-performance-vs-bmw-m3-competition/"
     },
     {
         "title": "Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit",
@@ -460,12 +523,5 @@
         "image": "https://cdn.motor1.com/images/mgl/1ZEOkK/s3/2026-genesis-electrified-gv70-comes-with-a-nacs-charging-port-from-the-factory.jpg",
         "date": "2024-11-20T20:00:00.000Z",
         "url": "https://insideevs.com/news/741700/2026-genesis-electrified-gv70/"
-    },
-    {
-        "title": "The Audi Q8 E-Tron Will Be Axed Early And Its Factory Will Close",
-        "description": "China’s Nio was reportedly interested in acquiring the Audi Brussels factory, but the deal was never confirmed.",
-        "image": "https://cdn.motor1.com/images/mgl/Rq2XY9/s3/q8-e-tron-axed.jpg",
-        "date": "2024-11-20T19:00:18.000Z",
-        "url": "https://insideevs.com/news/741718/audi-brussels-factory-close-february/"
     }
 ]

@@ -1,6 +1,6 @@
 import React from "react";
 
-const ArticleModal = ({ isOpen, onClose }) => {
+const ArticleModal = ({ isOpen, onClose, content }) => {
     if (!isOpen) return null;
 
     return (
@@ -14,12 +14,14 @@ const ArticleModal = ({ isOpen, onClose }) => {
                         ×
                     </button>
                     <div className="p-6">
-                        <h1 className="text-2xl font-bold mb-4">Article Title</h1>
-                        <p className="text-gray-700">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae lacus in magna cursus tincidunt. Mauris et metus in risus
-                            vestibulum vehicula. Donec lacinia libero eu sem ullamcorper, at
-                            ultrices nisi vehicula.
-                        </p>
+                        <h1 className="text-2xl font-bold mb-4">{content.title}</h1>
+
+                        {content.sections.map((section) => (<div>
+                            <h2 className="text-xl font-bold mb-4">{section.title}</h2>
+                            <p className="text-gray-700">{section.content}</p>
+                        </div>))}
+
+
                     </div>
                 </div>
             </div>

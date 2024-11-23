@@ -8,11 +8,12 @@ RSS_URL = [
     "https://rss.app/feeds/v1.1/wooXvaji9Y6z0rB1.json",  # Google
     "https://rss.app/feeds/v1.1/8LS0ifUfWFdE4zgj.json",  # BBC
     "https://rss.app/feeds/v1.1/jfGvnnaGk9xLumPS.json",  # insideevs
+    "https://rss.app/feeds/v1.1/IRpIMtUGLmyhuGZv.json"
 ]
 
 OUTPUT_PREFIX = "checkpoints/aggregate"
 
-count = 0
+count = 1
 
 
 def new_name() -> str:
