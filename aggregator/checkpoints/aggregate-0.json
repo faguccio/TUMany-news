@@ -294,6 +294,20 @@
         "url": "https://www.bbc.com/news/articles/c6282xexxgko"
     },
     {
+        "title": "Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'",
+        "description": "The Model 3 Performance has come a long way since its inception and has a lot going for it, including its price.",
+        "image": "https://cdn.motor1.com/images/mgl/JOAERg/s3/tesla-model-3-performance-vs.-bmw-m3-competition.jpg",
+        "date": "2024-11-23T15:00:13.000Z",
+        "url": "https://insideevs.com/news/741921/tesla-model-3-performance-vs-bmw-m3-competition/"
+    },
+    {
+        "title": "Electric Vehicle News and Analysis ",
+        "description": "Read the latest EV news from the U.S. and around the globe including new model reveals, business news, industry insights, latest technology, and more.",
+        "image": "https://cdn.motor1.com/custom/share/inside_evs_loadimage.png",
+        "date": "2024-11-23T15:00:13.000Z",
+        "url": "https://insideevs.com/news/"
+    },
+    {
         "title": "Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit",
         "description": "The manufacturer says in-drive brakes could provide a lifetime braking solution for electric vehicles with multiple advantages.",
         "image": "https://cdn.motor1.com/images/mgl/0eWkz2/s3/mercedes-future-experience.jpg",
@@ -306,13 +320,6 @@
         "image": "https://cdn.motor1.com/images/mgl/VzgEZl/s3/mercedes-future-experience.jpg",
         "date": "2024-11-22T23:01:00.000Z",
         "url": "https://insideevs.com/news/741983/mercedes-lfp-nmc-cell-batteries/"
-    },
-    {
-        "title": "Electric Vehicle News and Analysis ",
-        "description": "Read the latest EV news from the U.S. and around the globe including new model reveals, business news, industry insights, latest technology, and more.",
-        "image": "https://cdn.motor1.com/custom/share/inside_evs_loadimage.png",
-        "date": "2024-11-22T23:01:00.000Z",
-        "url": "https://insideevs.com/news/"
     },
     {
         "title": "Over 40% Of Tesla's Profit Come From Selling Regulatory Credits",
@@ -460,12 +467,5 @@
         "image": "https://cdn.motor1.com/images/mgl/Rq2XY9/s3/q8-e-tron-axed.jpg",
         "date": "2024-11-20T19:00:18.000Z",
         "url": "https://insideevs.com/news/741718/audi-brussels-factory-close-february/"
-    },
-    {
-        "title": "Electric Mini Cooper And Aceman U.S. Launch Is Up In The Air",
-        "description": "The new electric Mini hatch and the high-riding Aceman were slated to arrive in the U.S. in 2026, but now that may not happen at all.",
-        "image": "https://cdn.motor1.com/images/mgl/mM2ZLj/s3/2024-mini-cooper-se.jpg",
-        "date": "2024-11-20T18:00:49.000Z",
-        "url": "https://insideevs.com/news/741709/mini-cooper-se-aceman-delayed/"
     }
 ]
