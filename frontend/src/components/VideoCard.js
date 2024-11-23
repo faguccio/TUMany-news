@@ -2,9 +2,9 @@ import React from "react";
 
 const VideoCard = ({ videoSrc, onViewArticle }) => {
     return (
-        <div className="relative max-w-md mx-auto my-8 border rounded-lg shadow-lg  snap-center bg-gray-50 overflow-hidden">
+        <div className="relative h-screen snap-center">
             <video
-                className="relative w-full h-auto object-cover"
+                className="relative overflow-x-hidden h-full object-cover"
                 src={videoSrc}
                 controls="false"
                 type="video/mp4"

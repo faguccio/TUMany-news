@@ -4,10 +4,12 @@ import ArticleModal from "./components/ArticleModal";
 
 const App = () => {
     const [appState, setAppState] = useState([
-        { id: 1, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_1.json", isOpen: false },
+        { id: 1, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_1.json", isOpen: true },
         { id: 2, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_2.json", isOpen: false },
         { id: 3, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_1.json", isOpen: false },
     ]);
+
+    const phone_color = "bg-black"
 
     useEffect(() => {
         const fetchData = async () => {
@@ -50,12 +52,17 @@ const App = () => {
     };
 
     return (
-        <div className="flex justify-center bg-gray-900 h-screen">
-            <div className="mockup-phone border-primary h-full">
-                <div className="camera"></div>
-                <div className="display">
-                    <div
-                        className="h-screen overflow-y-scroll snap-y snap-mandatory bg-gray-300"
+        <div className="flex justify-center bg-gray-600 h-screen">
+
+
+            <div class="absolute h-screen w-3/12 mx-auto dark:border-gray-900 border-[14px] rounded-[2.5rem] shadow-xl">
+                <div class="z-10 w-[148px] h-[18px] bg-black top-0 rounded-b-[1rem] left-1/2 -translate-x-1/2 absolute"></div>
+                <div class="h-[46px] w-[3px] bg-black absolute -start-[17px] top-[124px] rounded-s-lg"></div>
+                <div class="h-[46px] w-[3px] bg-black absolute -start-[17px] top-[178px] rounded-s-lg"></div>
+                <div class="h-[64px] w-[3px] bg-black absolute -end-[17px] top-[142px] rounded-e-lg"></div>
+                <div class="rounded-[2rem] overflow-hidden bg-white dark:bg-orange-200 h-full">
+                    {appState[0].content ? (<div
+                        className="h-screen max-w-md overflow-y-scroll snap-y snap-mandatory"
                     >
                         {appState.map((article) => (<div>
                             <VideoCard
@@ -67,12 +74,18 @@ const App = () => {
                                 isOpen={article.isOpen} onClose={() => handleCloseArticle(article.id)} content={article.content} />
                         </div>
                         ))}
-                    </div>
+                    </div>) : null}
                 </div>
-
             </div>
 
-        </div>
+
+
+
+
+
+
+
+        </div >
     );
 };
 
