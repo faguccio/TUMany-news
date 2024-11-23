@@ -3,9 +3,12 @@ from scraper import automate_links
 from article_extractor import filter_html
 import json
 
-# Each article contain important metadata
-articles_feed = retrieve_feed()
+RSS_URL = "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.json"
 
+# Each article contain important metadata
+articles_feed = retrieve_feed(RSS_URL)
+
+# articles_feed = articles_feed[:1]
 
 # Extract HTML from each article
 articles_feed = automate_links(articles_feed)

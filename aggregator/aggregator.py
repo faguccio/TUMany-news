@@ -1,7 +1,5 @@
 import requests
 
-RSS_URL = "https://rss.app/feeds/v1.1/AY3gpY8fWOkfCCWR.json"
-
 
 def fetch_json(url):
     response = requests.get(url)
@@ -13,9 +11,9 @@ def fetch_json(url):
         return None
 
 
-def retrieve_feed():
+def retrieve_feed(rss_url):
     print("Retrieving news from RSS feed")
-    json_data = fetch_json(RSS_URL)
+    json_data = fetch_json(rss_url)
 
     aggregate = []
 
