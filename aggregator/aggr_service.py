@@ -4,10 +4,15 @@ from aggregator import retrieve_feed
 import json
 import time
 
-RSS_URL = "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.json"
+RSS_URL = [
+    "https://rss.app/feeds/v1.1/wooXvaji9Y6z0rB1.json",  # Google
+    "https://rss.app/feeds/v1.1/8LS0ifUfWFdE4zgj.json",  # BBC
+    "https://rss.app/feeds/v1.1/jfGvnnaGk9xLumPS.json",  # insideevs
+]
+
 OUTPUT_PREFIX = "checkpoints/aggregate"
 
-count = 1
+count = 0
 
 
 def new_name() -> str:
@@ -41,7 +46,9 @@ def merge_feeds(old, recent):
 
 
 while True:
-    articles_feed = retrieve_feed(RSS_URL)
+    articles_feed = []
+    for feed in RSS_URL:
+        articles_feed += retrieve_feed(feed)
 
     found_new = True
 
