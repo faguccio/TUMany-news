@@ -34,6 +34,8 @@ def embedding_request_ada002(input):
         print(response.text)
         return None
 
+
+
 if __name__ == "__main__":
     embedding = embedding_request_ada002("Prova di embedding")
     if embedding is not None:

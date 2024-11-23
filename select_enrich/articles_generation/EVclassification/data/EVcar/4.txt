@@ -1,0 +1,221 @@
+
+News
+News
+RideApart
+Motor1.com
+Critical Materials
+Charging
+Sales
+All news
+Reviews
+Car Reviews
+First Drives
+Test Drives
+Everything We Know
+Comparisons
+Tech Review
+All reviews
+Features
+Lists
+Features
+Buying Advice
+Sponsored
+EV 101
+Opinion
+All Features
+Auto Shows
+Videos
+Photos
+Newsletter
+
+SIGN UP FOR FREE
+Chime in with article commenting.
+
+Sign In
+Sign Up
+Home
+News
+Auto Industry Urges Trump: 'Preserve The Tax Credits'
+U.S. automakers wrote a letter to Trump pleading for regulations that are "predictable" and "stable."
+Auto Industry Urges Trump To Preserve Tax Credits CM 11/22.
+Photo by: InsideEVs
+Suvrat Kothari
+By: Suvrat Kothari
+Nov 22, at 10:53am ET
+Share
+12
+A week after the U.S. elections, the country's top auto industry lobbying group wrote a letter to President-elect Donald Trump. It had a clear message: Don't mess with the electric vehicle tax credits. Of course, the group attempted to strike a far more subtle and diplomatic tone. But the urgency of that letter is palpable. Automakers want to continue manufacturing EVs and remain competitive with the rest of the world, especially China.
+
+Welcome back to Critical Materials, your daily round-up of news shaping up the world of EVs. Also on today's list: General Motors will continue forging its path towards electrification and a recap of the Hyundai Motor Group's several new and refreshed models at the LA Auto Show. The best part: several Hyundai EVs will have the Tesla NACS charging port factory-fitted soon.
+
+30%: Automakers Request Trump To Preserve Tax Credits
+Of course they did. Walking back on EVs at this stage is equal to reversing years of technological progress. The likes of GM, Ford and the Hyundai Motor Group have invested billions of dollars in bringing EV manufacturing home with the help of the Biden administration's production incentives under the landmark Inflation Reduction Act. Plus the sales numbers speak for themselves. The third quarter witnessed record EV adoption in the U.S.
+
+The New York Times has a big dive into the fight. "Even as automakers invest in an increasingly connected, automated and electrified vehicle fleet, they face unprecedented geopolitical and market pressures—a point you also regularly made during the campaign," wrote John Bozella, the president and CEO of the Alliance for Automotive Innovation, the auto industry's top lobbying group that represents most legacy automakers, component suppliers and battery makers.
+
+The letter, understandably, is poised at not irking the President-elect. There's no direct mention of the IRA. There's no mention of the EPA either, which has called for automakers to sell an increasing mix of EVs and hybrids from model year 2027 onwards. But none of this is a "mandate," as many reports will have you believe.
+
+That word gets thrown around unrestrained, sans nuance. Years from now, when you walk into a showroom, you will be able to choose from gas, hybrid, plug-in hybrid, battery electric and maybe even hydrogen powertrains.
+
+For now, here are some points from the letter urging the President-elect to maintain incentives for EVs and advance the framework for autonomous cars:
+
+Support Reasonable and Achievable Emissions Regulations: To remain successful and competitive, the auto industry needs a stable and predictable regulatory environment. Automakers support reasonable and achievable federal and state emissions regulations aligned with current market realities that support a customer’ ability to purchase a vehicle that meets their individual needs. Alliance for Automotive Innovation urges your administration to promote stability and predictability in auto-related emissions standards.
+
+Preserve Incentives that Support Global Competitiveness: Provisions in the tax code (including the 2017 Tax Cuts and Jobs Act) support the development of next-generation automotive technologies, including EVs, in the U.S. These incentives have fueled investment in domestic EV and battery manufacturing and increased good-paying jobs in automotive communities across the industrial base. The incentives help ensure the U.S. continues to lead in manufacturing critical to our national and economic security. Alliance for Automotive Innovation urges your administration to preserve auto-related provisions in the current tax code.
+
+Implement a Federal Regulatory Framework for AVs: As the current leader in the development of autonomous vehicle (AV) technology, the US. is at the forefront of innovation that will transform personal mobility, improve roadway safety, and increase access to mobility for older adults and people with disabilities. Other countries, including China, are implementing regulatory frameworks to support the development and deployment of AVS, but the U.S. still lacks such a framework. Alliance for Automotive Innovation urges your administration to implement a federal regulatory framework for commercial deployment of AVS.
+
+The impact of this message is unclear. Trump's "first buddy" and Tesla CEO Elon Musk supports ending the tax credits, saying it will only help Tesla. Tesla is years ahead of legacy OEMs in manufacturing EVs profitably.
+
+However, Tesla also netted $2.1 billion from selling emissions credits to other automakers from January to September, which was 43% of its net profits, the New York Times reported. So we might be underestimating the impact of deleting the tax credits on Tesla's own balance sheets.
+
+60%: GM's EV Onslaught Will Continue Despite Policy Changes
+General Motor's Chief Financial Officer Paul Jacobson said the automaker's EV efforts will continue even if related policies change next year. Speaking on November 20 at the Barclays Global Automotive And Mobility Tech Conference, Jacobson said that the "technology would continue to win people over." That may indicate how GM customers are reacting to its EVs.
+
+Around the same time last year, GM appeared to be struggling with its EV transition. The popular Bolt EV's production ended and the automaker faced software issues and production challenges. But GM has turned things around over the past 12 months. It was America's second best-selling EV maker in Q3 and Chevy Equinox EV sales have taken off.
+
+Here's what Jacobson said, according to Automotive News:
+
+“Many of the things that we’re doing today are going to continue irrespective of what happens with the regulations,” Jacobson said.
+
+“We’ve got to make sure that we have reasonable regulation alongside where consumers are and where demand is. The technology is going to continue to win people over, but we’ve got to be able to produce vehicles that our customers want,” he said. “We’re going to continue to work with the incoming administration and figure out the best path forward.”
+
+Automakers are global companies. Someday, they may be able to break their supply chains away from China, but the network extends far beyond that. The U.S. car industry is intertwined with Asian, South American and European supply chains. And while the rest of the world moves towards electrification, U.S. automakers don't want to be left behind. Because this is not just about selling more EVs, it's a race for technological dominance, a race for energy independence and a race to prevent catastrophic climate change. Sure, GM's profits come from gas-guzzling trucks and SUVs, but understanding this urgency is a positive early step. 
+
+90%: Hyundai Motor Group's LA Auto Show Onslaught
+The Hyundai Motor Group made quite a splash at the LA Auto Show this week. It not only showcased the three-row Ioniq 9, but also brought extensive upgrades to the 2025 Kia EV6 and showcased a 500 horsepower 2026 Kia EV9 GT.
+
+They all have something in common: factory-fitted Tesla charging port. That's huge because it opens up access to tens of thousands of Tesla Superchargers. InsideEVs took a close look at the Ioniq 9, which has a bigger battery and better range than the Kia EV9 and comes will cool features like swiveling middle-row seats. Plus, its interior is festooned with tech. We have a whole video about how all of that works.
+
+Kia also comprehensively upgraded the EV6 for 2025. It now has larger 63 kilowatt-hour (up from 58 kWh) and 84 kWh (up from 77.4 kWh) battery packs for the standard-range and long-range trims. It also has a slicker operating system and a more powerful GT trim. Here's everything you need to know about the 2025 Kia EV6. 
+
+If you're an enthusiast, you may also want to check out the new EV9 GT with over 500 horsepower. It gets simulated manual gear shifts like the Hyundai Ioniq 5 N and also an electronic limited-slip differential (e-LSD). Kia really went all-in with this one.
+
+100%: How Else Can The Auto Industry Convince Trump To Keep The Tax Credits?
+Writing a letter to Trump's transition team urging it to preserve the tax credits is one thing. But convincing the President-elect may be a whole different ballgame. Trump has close friends in the oil and gas industry who would be happy to see the EV tax credits vanish. His pick to lead the U.S. Department of Energy is fracking veteran Chris Wright.
+
+What else can automakers do to give the tax credits another four years (or more) of lifeline? 
+
+Have a tip? Contact the author: suvrat.kothari@insideevs.com
+
+
+Share this Story
+Got a tip for us? Email: tips@insideevs.com
+Top comments
+24blazerev
+24blazerev
+Nov 22, 2024, 5:46 PM
+fast typing, you got the message. You have several trolls here that contribute nothing other than spreading GOP free market talking points. Why are they here if they have zero interest in the success of EVs? There are plenty of sites online for close minded partisans who prefer to be detached from reality.
+Troy Savary
+Troy Savary
+Nov 23, 2024, 3:19 PM
+Maybe they are here because they think EVs can succeed without government intervention. Maybe you are insecure about allowing choice.
+Solarman2
+Solarman2
+Nov 22, 2024, 6:22 PM
+There are plenty of sites online for close minded partisans who prefer to be detached from reality.
+There's this thing in the U.S. Constitution formulated within inalienable rights of the Bill Of Rights. Discourse is the avenue one travels to the destination of change. Whether one uses an ICE vehicle or a BEV vehicle to that destination of change is all part of the discourse. IF you wnat to join a club, go to the Eagles Aerie, BPOE Elks, Moose Lodge, .....
+
+Why are they here if they have zero interest in the success of EVs?
+Occam's Razor, (why are they here), perhaps fear, the fear of change. To feed or assuage that fear is the currency of part of the problem or part of the solution. Right ...don't are...?
+24blazerev
+24blazerev
+Nov 22, 2024, 5:22 PM
+here come 50 comments from the maga faction who troll this site and don't are about Evs at all.
+Troy Savary
+Troy Savary
+Nov 23, 2024, 3:18 PM
+Here come the leftist comments assuming what Republicans believe about EVs. Here comes the usual 9ne sided fear mongering.
+Jeffrey Todd
+Jeffrey Todd
+Nov 23, 2024, 2:01 AM
+Thanks for the heads-up.
+gtjr
+gtjr
+Nov 23, 2024, 4:26 PM
+Musk wants to get rid of the tax credit because at this point it benefits his competitors more than it benefits Tesla.
+Jeffrey Todd
+Jeffrey Todd
+Nov 23, 2024, 4:29 PM
+So you're saying it benefits Tesla.
+Join the conversation
+(
+12
+)
+Trending
+Ownership Experience
+What's it like to own an EV?
+
+Buying Tips
+Need some EV buying advice?
+
+Deals
+Discover deals on EVs here.
+
+latest articles
+
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+9m ago
+-
+Races & Chases
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+16h ago
+-
+News
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+16h ago
+-
+Battery Tech
+Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits
+17h ago
+-
+Industry Outlook
+Hyundai, Kia Recall Over 200,000 EVs Because They Might Lose Power While Driving
+20h ago
+-
+Recalls
+RECOMMENDED FOR YOU
+
+alt
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+
+alt
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+
+alt
+America's EV Demand Could Dive 27% Without Tax Credits
+
+alt
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+
+alt
+It’s Now Easier To Find Trailer-Friendly Tesla Superchargers
+
+alt
+Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits
+
+alt
+Tesla Model Y Juniper Update: Everything We Know
+
+Subscribe to our Newsletter
+Receive exciting Automotive news, updates, and special offers straight to your inbox.
+Subscribe
+Follow Us
+Facebook
+X
+Flipboard
+Google News
+YouTube
+RSS
+About Us
+Advertising
+Contact
+insideEVs
+650 Madison Avenue
+New York, NY 10022
+USA
+Privacy policy
+Cookie policy
+Cookie Settings
+Terms of use
+

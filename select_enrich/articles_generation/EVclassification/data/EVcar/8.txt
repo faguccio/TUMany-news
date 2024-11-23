@@ -1,0 +1,201 @@
+
+News
+News
+RideApart
+Motor1.com
+Critical Materials
+Charging
+Sales
+All news
+Reviews
+Car Reviews
+First Drives
+Test Drives
+Everything We Know
+Comparisons
+Tech Review
+All reviews
+Features
+Lists
+Features
+Buying Advice
+Sponsored
+EV 101
+Opinion
+All Features
+Auto Shows
+Videos
+Photos
+Newsletter
+
+SIGN UP FOR FREE
+Chime in with article commenting.
+
+Sign In
+Sign Up
+Home
+Features
+Lists
+The Best Electric Trucks, SUVs And Crossovers For Towing
+Towing isn't easy on EVs, but these ones are up to the task.
+Chevrolet Silverado RST EV First Drive Photos
+Ty Duffy
+By: Ty Duffy
+Sep 19, at 10:00am ET
+Share
+1
+Electric vehicles can easily fulfill most use cases for modern combustion vehicles. Towing can be a glaring exception. EVs can make towing feel very easy in small doses at press events. Their prodigious torque is excellent for accelerating or hiking up steep grades. The drawback in real life is their range.
+
+As with combustion trucks, towing heavy items with an EV hampers a vehicle’s efficiency. EV range—already a source of anxiety—can drop by as much 50 percent or more while towing. Charging on the road can be time-consuming. An EV with a solid 300 miles of range for everyday driving could be a non-starter for a road trip with a trailer.
+
+The best EVs for towing have a few prominent qualities. They have a high towing capacity and a large amount of range—enough to still deliver a substantial amount with reduced efficiency. Available technology and towing aides can also make the experience much more pleasant.
+
+Here are our choices for the best EVs for towing.
+
+Gallery: 2024 Chevrolet Silverado RST EV First Drive
+Chevrolet Silverado RST EV First Drive Photos
+62
+Best Overall EV for Towing: Chevrolet Silverado EV RST
+Starting MSRP: $96,495
+EPA Range: 440 miles
+Max Towing: 10,000 lbs
+The Chevy Silverado EV RST is about as good as it gets for EV towing. Having 440 miles of EPA range means you still have a solid 220 miles when factoring in losing 50% efficiency while towing a full load. And the Silverado EV’s exceedingly quick DC fast charging, which can add an estimated 100 miles of range in 10 minutes, gets you back on the road quickly. 
+
+Gallery: Rivian R1T
+Rivian R1T
+22
+Best Electric Pickup for Towing: Rivian R1T Max
+Starting MSRP: $69,900
+EPA Range: 270-420 miles
+Max Towing: 11,000 lbs
+The refreshed 2025 Rivian R1T offers an impressive package for towing. The R1T can tow up to 11,000 pounds when equipped with the Max battery pack. The Max pack offers up to 420 miles of range, which should provide decent range even while weathering substantial efficiency losses. The R1T’s adaptive suspension adjusts to the load, and sensors factor in the trailer to deliver accurate range metrics. 
+
+Gallery: Rivian R1S
+Rivian R1S
+20
+Best Electric SUV for Towing: Rivian R1S
+Starting MSRP: $75,900
+EPA Range: 270 to 410 miles
+Max Towing: 7,700 lbs
+The Rivian R1S can’t tow as much as the R1T Max. But 7,700 pounds — the same as the base R1T — is still the largest towing capacity for an electric SUV. With up to 410 miles of EPA range, the R1S can deliver substantial distance while towing on a single charge. Like the R1T, the Rivian R1S can factor in trailer weight and aerodynamics to give accurate range metrics.
+
+Gallery: 2024 Ford F-150 Lightning Platinum Black
+2024 F-150 Lightning  Platinum Black exterior front three-quarter view driver side
+29
+Ford
+Best EV Towing Tech: Ford F-150 Lightning
+Starting MSRP: $55,495
+EPA Range: 240-320 miles
+Max Towing: 10,000 pounds
+The Ford F-150 Lightning can offer up to 10,000 pounds of towing capacity with the available Max Trailer Tow package for Flash and Lariat trims. Its 775 lb-ft of instant torque can get you moving with ease. What the F-150 Lightning lacks in outright range, it makes up for with state-of-the-art towing tech from the combustion F-150 like Ford’s Pro Trailer Backup Assist and Smart Hitch, making the process much easier.   
+
+Gallery: 2024 Tesla Cybertruck Review
+Tesla Cybertruck Review
+38
+Best Tesla for Towing: Tesla Cybertruck
+Starting MSRP: $99,990
+EPA Range: 301-318 miles
+Max Towing: 11,000 pounds
+The best Tesla for towing is the Cybertruck. It can’t out-drag a Porsche 911 while towing a Porsche 911. But it does offer an impressive max capacity of 11,000 pounds, more than twice the capacity of the Model X. Competitors provide more range for now. However, Tesla is taking deposits for a range extender coming in 2025 that will boost the estimated range to 470 miles. 
+
+
+Best Affordable EV for Towing: Tesla Model Y
+Starting MSRP: $44,900
+EPA Range: 279-320 miles
+Max Towing: 3,500 pounds
+The Tesla Model Y is America’s best-selling EV. Its value proposition is a major reason why, and that holds true when it comes to towing. The Model Y offers a 3,500-pound capacity when optioned with the $1,000 tow hitch. EV trucks dwarf that number. But it’s still around 1,000 pounds or more than its sub $50,000 competitors and enough for a decent-sized camping trailer.
+
+Share this Story
+Got a tip for us? Email: tips@insideevs.com
+Top comments
+Solarman2
+Solarman2
+Sep 19, 2024, 7:00 PM
+An EV with a solid 300 miles of range for everyday driving could be a non-starter for a road trip with a trailer.
+Just a few years ago now, Lordstown, was the new kid on the block. During the time of the "specification wars", Lordstown was all in with my specs are better than your specs, until. Lordstown got this great idea of retrofitting a truck to run the Baja 250 in 2021. It made it 40 miles in the first leg of the race and it was obvious the vehicle's street specs of a 135kWh battery pack and around 400Wh/mile on asphalt was more like 2.1kW/mile to 2.4kW/mile offroad. So say for 125 miles range in an offroad 'race' one could expect to need a battery pack of "net" capacity of say 275kWh and a gross battery pack of some 300-350kWh onboard energy storage. The problem, with today's battery chemistries that would be a battery pack of 350kWh of right at 5,300 pounds, not something one wants to drag along on a race course.
+
+This is the consideration that GM apparently has taken into account with the design of the Silverado BEV said to be designed from the ground up. This Ultium battery pack is something on the order of 2,800 pounds for the 24 module pack and something on the order of 2,350 pounds for the 20 module pack. It is still obvious that getting a superior battery chemistry into these packs to reduce the pack weight to 1,400 to 1,175 pounds is more than worth pursuing in the short term for superior product long term results.
+
+However, Tesla is taking deposits for a range extender coming in 2025 that will boost the estimated range to 470 miles.
+For a company that is "selling itself" as a technology company instead of an auto manufacturing company is leveraging technology while NOT bringing forth the superior battery chemistry to use in the TESLA brand autos to allow superior overall range and weight reduction in ALL TESLA energy storage products from the vehicles to the BESS units it manufactures.
+Join the conversation
+(
+1
+)
+Trending
+Ownership Experience
+What's it like to own an EV?
+
+Buying Tips
+Need some EV buying advice?
+
+Deals
+Discover deals on EVs here.
+
+latest articles
+
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+9m ago
+-
+Races & Chases
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+16h ago
+-
+News
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+16h ago
+-
+Battery Tech
+Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits
+17h ago
+-
+Industry Outlook
+Hyundai, Kia Recall Over 200,000 EVs Because They Might Lose Power While Driving
+20h ago
+-
+Recalls
+RECOMMENDED FOR YOU
+
+alt
+How Much Does A Tesla Cost? Model By Model Price Breakdown
+
+alt
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+
+alt
+The Complete Guide To Electric Vehicle Platforms
+
+alt
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+
+alt
+These States Charge Extra Fees To Register EVs And PHEVs
+
+alt
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+
+alt
+Here Are The Best Used EVs That Qualify For The $4,000 Tax Credit
+
+Subscribe to our Newsletter
+Receive exciting Automotive news, updates, and special offers straight to your inbox.
+Subscribe
+Follow Us
+Facebook
+X
+Flipboard
+Google News
+YouTube
+RSS
+About Us
+Advertising
+Contact
+insideEVs
+650 Madison Avenue
+New York, NY 10022
+USA
+Privacy policy
+Cookie policy
+Cookie Settings
+Terms of use
+

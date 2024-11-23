@@ -1,0 +1,166 @@
+
+News
+News
+RideApart
+Motor1.com
+Critical Materials
+Charging
+Sales
+All news
+Reviews
+Car Reviews
+First Drives
+Test Drives
+Everything We Know
+Comparisons
+Tech Review
+All reviews
+Features
+Lists
+Features
+Buying Advice
+Sponsored
+EV 101
+Opinion
+All Features
+Auto Shows
+Videos
+Photos
+Newsletter
+
+SIGN UP FOR FREE
+Chime in with article commenting.
+
+Sign In
+Sign Up
+Home
+Mercedes-Benz
+News
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+This was made possible by an innovative new power converter that can be integrated into the battery pack at a cell level.
+Mercedes Future Experience
+Photo by: Mercedes-Benz
+Andrei Nedelea
+By: Andrei Nedelea
+Nov 22, at 6:01pm ET
+Share
+3
+Mercedes is experimenting with multiple-chemistry battery packs that have more than one type of cell.
+A new type of micro-converter and hooking up the battery cells in parallel not in series makes this possible.
+This innovation will improve battery pack performance, modularity and space efficiency.
+While the details surrounding the impressively efficient new electric CLA were the most important news we obtained while in Stuttgart last week, Mercedes-Benz also gave us a glimpse at what it’s cooking up for the future. Among the many innovations we were shown at the event called Mercedes Future Experience was a new type of power converter that allows for much more control over a battery pack than ever before.
+
+Its programmable micro-converter can be wirelessly controlled and embedded into the battery pack and controlled wirelessly. This allows for control on an individual cell pair, allowing for much finer adjustment of the charge that goes into each one. For this system to work, the cells need to be connected in parallel, not in series, which unlocks new possibilities.
+
+For instance, a vehicle with this system could balance the charge in its cells far better than today’s EVs. It could detect and isolate damaged cells without affecting the entire battery pack, and it would also allow for a much more accurate battery health check, which would easily be able to pinpoint problem cells and check their individual parameters.
+
+This new type of micro-converter can also keep the total battery pack voltage constant regardless of the state of charge. It typically varies with the state of charge.
+
+Mercedes explains that “research results show it is possible to provide a constant HV output of 800 volts, regardless of the state of charge and the state of health of the individual cells. The output voltage of this vehicle battery is no longer dependent on the number of cells connected in series. The number is determined purely by the desired performance and capacity class.”
+
+If this makes it into production, it would also allow for much more modular battery packs than what we have in today’s EVs, resulting in more efficient use of space. It could help automakers cut costs by applying increased standardization and modularization when applied on a large scale.
+
+
+During a round table talk with Mercedes’ Chief Technology Officer Markus Schäfer, we asked about the possibility of using multiple chemistries within the same battery pack, specifically both LFP and NMC cells. Schäfer told us “Yes, this is exactly the idea, to mix and match,” and he confirmed that the possibility of an LFP and NMC pack is in the cards. He did not say when we could see such a pack in a production car given that this innovation is still in the very early stages of testing.
+
+LFP (short for lithium iron phosphate) batteries can better take regular fast charging all the way to 100%, exhibiting less degradation than NMC (nickel manganese cobalt) batteries. They also have better thermal stability and are more affordable. However, NMC batteries can store more current and are preferred for large-capacity battery packs that power long-range EVs. Having both in the same battery pack would have multiple advantages, taking advantage of both their strengths.
+
+Share this Story
+Got a tip for us? Email: tips@insideevs.com
+Top comments
+Needles Balloon
+Needles Balloon
+Nov 23, 2024, 5:26 PM
+Nio has mixed NMC and LFP batteries before with a CATL technology. Their first 75kWh (standard range) pack in 2021 used some undisclosed ratio of the cell types in series along with a special pack management module. LFP cells have a lot of desirable characteristics for a swappable battery (cheap, good wear, safety, etc) but presumably they needed some extra density from NMC to achieve capacity within the standardized pack size; it also comes with the bonus of more accurate charge percentage readings.
+In Nio's 2024 refresh, they replaced that pack with a 75kWh conventional LFP-only pack, likely using denser LFP cells than was available previously.
+This Mercedes technology sounds quite promising, it might lead to better pack repairability.
+Solarman2
+Solarman2
+Nov 23, 2024, 4:53 PM
+Schäfer told us “Yes, this is exactly the idea, to mix and match,” and he confirmed that the possibility of an LFP and NMC pack is in the cards. He did not say when we could see such a pack in a production car given that this innovation is still in the very early stages of testing.
+There's the "rub", Mercedes could go to company (ONE) and get a tailored Gemini battery pack for any BEV to test out in the "real World". An old TESLA model S has done this and a BMW refitted with a Gemini battery pack has done this already. What's the hold up Schäfer? Yeah the Gemini concept is already documented and company (ONE) understands the process already. Next, something like NIB, KIB combined into a pack using metal/air battery modules for really long range capability.
+Fields Carlisle
+Fields Carlisle
+Nov 23, 2024, 5:41 AM
+People too often poo poo “legacy automakers” like Mercedes-Benz, but I think that’s an unwise decision. These companies haven’t stood the test of time through World Wars, Cold War, economic crises, and decade after decade of changing tastes and demands by sitting still. Mercedes’ upcoming EV technology seems to be the most impressive of the Big 3 German automakers, but BMW and VW aren’t terribly far behind. BMW’s unique brushed motors have proven to be very reliable, smooth, powerful, and they’re unlike anything else in the EV world. They deliver real world efficiency on par with the best PM motors, especially at higher speeds, but require zero rare earth magnets. Each motor is able to freewheel like an induction motor meaning they don’t have to use a mechanical decoupler like most automakers are now using on at least one motor in cars with dual/triple PM motors. This allows their cars to coast with less resistance than most competing motor designs.
+
+Mercedes is planning to use a PM rear motor with a two speed gearbox, but I haven’t yet seen information on what the front motors will be on the upcoming MMA models. It may vary depending on power output with more entry level vehicles using one PM and one induction motor, while AMG badged models could use dual/triple PM motors. Mercedes acquired a company called YASA that has designed axial flow motors that have super high energy density and they plan on using them in upcoming EVs in the very near future. On the EQE and EQS, Mercedes made a switch to in-house designed motors that have a decoupler on the front axle to improve cruising efficiency. In my experience in my EV6 GT, decoupling the front motor provides a real world 10-15% improvement in energy consumption. The faster you’re going the larger the difference.
+
+Mercedes is also looking at integrated braking systems internally in electric motors which could be a unique proposal if they can figure out how to achieve equal or better braking performance and longer life of brake parts. I’m very excited about the upcoming CLA EV and hope they hit their target of 5.2mi/kWh and it delivers a real world range of at least 400mi highway (at 75mph). If they can do that and price it aggressively, I really do think they could take quite a large number of sales away from the Model 3. They also have some crossover models planned on the same platform so the Model Y sales could be firmly in their sights.
+Join the conversation
+(
+3
+)
+Trending
+Ownership Experience
+What's it like to own an EV?
+
+Buying Tips
+Need some EV buying advice?
+
+Deals
+Discover deals on EVs here.
+
+latest articles
+
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+9m ago
+-
+Races & Chases
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+16h ago
+-
+News
+Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits
+17h ago
+-
+Industry Outlook
+Hyundai, Kia Recall Over 200,000 EVs Because They Might Lose Power While Driving
+20h ago
+-
+Recalls
+RECOMMENDED FOR YOU
+
+alt
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+
+alt
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+
+alt
+The Mercedes CLA EV Will Have Both Tesla NACS And Type1 (J1772) Plugs (UPDATED)
+
+alt
+Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits
+
+alt
+A Mercedes-Benz CLA EV Prototype Drove 2,309 Miles In 24 Hours–A New Record
+
+alt
+Hyundai, Kia Recall Over 200,000 EVs Because They Might Lose Power While Driving
+
+alt
+The 2026 Mercedes CLA-Class Is A Groundbreaking EV And Hybrid Do-Over
+
+Subscribe to our Newsletter
+Receive exciting Automotive news, updates, and special offers straight to your inbox.
+Subscribe
+Follow Us
+Facebook
+X
+Flipboard
+Google News
+YouTube
+RSS
+About Us
+Advertising
+Contact
+insideEVs
+650 Madison Avenue
+New York, NY 10022
+USA
+Privacy policy
+Cookie policy
+Cookie Settings
+Terms of use
+

@@ -1,0 +1,168 @@
+
+News
+News
+RideApart
+Motor1.com
+Critical Materials
+Charging
+Sales
+All news
+Reviews
+Car Reviews
+First Drives
+Test Drives
+Everything We Know
+Comparisons
+Tech Review
+All reviews
+Features
+Lists
+Features
+Buying Advice
+Sponsored
+EV 101
+Opinion
+All Features
+Auto Shows
+Videos
+Photos
+Newsletter
+
+SIGN UP FOR FREE
+Chime in with article commenting.
+
+Sign In
+Sign Up
+Home
+News
+Hyundai, Kia Recall Over 200,000 EVs Because They Might Lose Power While Driving
+An issue with the 12-volt battery charging system can cause certain Hyundai, Kia and Genesis EVs to suddenly lose power.
+Kia EV6/Hyundai Ioniq 5
+Photo by: Kia
+Mack Hogan
+By: Mack Hogan
+Nov 22, at 2:00pm ET
+Share
+5
+Hyundai, Kia and Genesis recalled 200,000 EVs due to a faulty 12-volt battery charging system.
+The issue could cause affected vehicles to lose power while driving, creating a potentially dangerous situation.
+It affects the Hyundai Ioniq 5 and Ioniq 6; Kia EV and Genesis Electrified G80, Electrified GV70 and GV60.
+Hyundai, Kia and Genesis are recalling over 200,000 EVs over an issue that could cause them to suddenly lose power, according to notices filed with the National Highway Traffic Safety Administration. Reuters was the first to report the news of the Hyundai recall, but InsideEVs has confirmed it affects some Kias, too.   
+
+Gallery: 2024 Hyundai Ioniq 5
+2024 Hyundai Ioniq 5
+22
+The recall covers 145,234 Hyundai and Genesis EVs, along with 62,872 Kia EV6s. The covered vehicles have an issue with their Integrated Charging Control Units (ICCUs), which is responsible for charging the low-voltage 12-volt battery using power from the high-voltage system. The ICCU is a common failure point on Hyundai, Genesis and Kia EVs on the E-GMP platform, and if it fails it'll stop charging the 12-volt battery. The 12-volt going flat can lead to a loss of drive power, causing the car to suddenly lose power and speed. Here is the full list of affected vehicles:
+
+2022-2024 Hyundai Ioniq 5
+2023-2025 Hyundai Ioniq 6
+2022-2024 Kia EV6
+2023-2024 Genesis Electrified G80
+2023-2025 Genesis Electrified GV70
+2023-2025 Genesis GV60
+
+Owners have reported losing power on the freeway, resulting in the car suddenly dropping far below highway speeds before stopping entirely.  
+
+"I was driving on the highway and a message appeared that said 'check electrical system.' The power in the car then completely bottomed out and I could not go above 25 mph," one 2024 Ioniq 5 AWD owner reported in a public comment to NHTSA.  
+
+Gallery: 2024 Kia EV6
+2024 Kia EV6
+11
+NHTSA opened an investigation into the 2022 Ioniq 5 back in early summer 2023, over the same issue. A month later, the agency opened a similar probe over the issue in the 2022 Kia EV6. Many EV6s and Ioniq 5s were already recalled over this issue, but apparently the fix didn't work. So Hyundai, Kia and Genesis are recalling all previously affected vehicles, plus additional ones not subject to the earlier recall.
+
+If you own one of the affected vehicles, your dealer will check your ICCU and its fuse, replacing both if necessary. The dealer will also update the ICCU's software. You will need this recall even if your vehicle was previously subject to the ICCU recall. As with all recalls, you will be notified directly, and the work will be performed free of charge.
+
+Contact the author: Mack.Hogan@insideevs.com. 
+
+Share this Story
+Got a tip for us? Email: tips@insideevs.com
+Top comments
+Steve Howard
+Steve Howard
+Nov 23, 2024, 1:36 AM
+Why on earth would anyone buy a Kia or Hyundai EV when they can't even get a gas engine right?
+mikoprivat
+mikoprivat
+Nov 23, 2024, 12:39 AM
+Like I said...cheap, korean garbage
+Mr T
+Mr T
+Nov 22, 2024, 11:39 PM
+How are the incumbent manufacturers still screwing this stuff up?
+Join the conversation
+(
+5
+)
+Trending
+Ownership Experience
+What's it like to own an EV?
+
+Buying Tips
+Need some EV buying advice?
+
+Deals
+Discover deals on EVs here.
+
+latest articles
+
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+9m ago
+-
+Races & Chases
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+16h ago
+-
+News
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+16h ago
+-
+Battery Tech
+Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits
+17h ago
+-
+Industry Outlook
+RECOMMENDED FOR YOU
+
+alt
+The Best Tesla Alternatives In 2024
+
+alt
+Tesla Model 3 Performance VS. BMW M3: 'It's Staggering'
+
+alt
+Hyundai's Ioniq 5 Is A Charging Hero. Here's How It Does On A Tesla Supercharger
+
+alt
+Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit
+
+alt
+The 2025 Hyundai Ioniq 5 Starts At $43,975, XRT At $56,875
+
+alt
+Mercedes Wants EV Battery Packs With Both NMC And LFP Cells
+
+alt
+The Best EV Lease And Finance Deals In November 2024
+
+Subscribe to our Newsletter
+Receive exciting Automotive news, updates, and special offers straight to your inbox.
+Subscribe
+Follow Us
+Facebook
+X
+Flipboard
+Google News
+YouTube
+RSS
+About Us
+Advertising
+Contact
+insideEVs
+650 Madison Avenue
+New York, NY 10022
+USA
+Privacy policy
+Cookie policy
+Cookie Settings
+Terms of use
+
