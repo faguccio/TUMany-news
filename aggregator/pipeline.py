@@ -7,9 +7,12 @@ RSS_URL = "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.json"
 LENGTH_CUTOUT = 10000
 
 # Each article contain important metadata
-articles_feed = retrieve_feed(RSS_URL)
+# articles_feed = retrieve_feed(RSS_URL)
 
-# articles_feed = articles_feed[:1]
+articles_feed = None
+
+with open("aggregate.json", "r", encoding="utf-8") as json_file:
+    articles_feed = json.load(json_file)
 
 # Extract HTML from each article
 articles_feed = automate_links(articles_feed)
