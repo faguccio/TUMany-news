@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 PAGE_LOAD_TIMEOUT = 8
-COOKIE_TIMEOUT = 2
+COOKIE_TIMEOUT = 1.5
 JS_TIMEOUT = 1.5
 
 
@@ -35,32 +35,34 @@ def automate_links(feed_list, headless=False):
                 EC.presence_of_element_located((By.TAG_NAME, "body"))
             )
 
-            # try:
-            #     # List of possible keywords for cookie acceptance
-            #     accept_keywords = [
-            #         "Accept", "I agree", "Consent",  # English
-            #         "Akzeptieren", "Einwilligen", "Zustimmen", "Erlauben"  # German
-            #     ]
+            # Wait a few second for the cookie banner to appear
+            time.sleep(COOKIE_TIMEOUT)
 
-            #     cookie_elements = [
-            #         (By.XPATH, f"//*[contains(text(), '{keyword}')]") for keyword in accept_keywords
-            #     ]
+            try:
+                # List of possible keywords for cookie acceptance
+                accept_keywords = [
+                    "Accept", "Consent", "Allow", "Agree", "Proceed", "Continue", "Confirm", "Enable", "Grant", "Got It", "Understood",  # English
+                    "Akzeptieren", "Einwilligen", "Zustimmen", "Erlauben"  # German
+                ]
 
-            #     for cookie_button in cookie_elements:
-            #         try:
-            #             button = WebDriverWait(driver, COOKIE_TIMEOUT).until(
-            #                 EC.element_to_be_clickable(cookie_button)
-            #             )
-            #             print(
-            #                 f"\tFound and clicked cookie button: {button.text}")
-            #             ActionChains(driver).move_to_element(
-            #                 button).click().perform()
-            #             break
-            #         except:
-            #             pass
+                for keyword in accept_keywords:
+                    # Find all elements containing the keyword (case-insensitive)
+                    cookie_buttons = driver.find_elements(
+                        By.XPATH, f"//button[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '{keyword.lower()}')]")
 
-            # except Exception as e:
-            #     print(f"\tNo cookie popup found on {url}. Proceeding...", e)
+                    if cookie_buttons:
+                        print(
+                            f"\tFound {len(cookie_buttons)} cookie element(s) for keyword: '{keyword}'")
+                        for button in cookie_buttons:
+                            try:
+                                print(f"\t\tClicking button: {button.text}")
+                                ActionChains(driver).move_to_element(
+                                    button).click().perform()
+                            except Exception as e:
+                                print(f"\t\tCould not click button")
+
+            except Exception as e:
+                print(f"\tNo cookie popup found on {url}. Proceeding...", e)
 
             # Wait briefly to ensure any JavaScript changes are applied
             time.sleep(JS_TIMEOUT)
