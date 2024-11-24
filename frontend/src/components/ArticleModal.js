@@ -4,7 +4,10 @@ const ArticleModal = ({ isOpen, onClose, content }) => {
     if (!isOpen) return null;
 
     return (
-        <div className="absolute border-white rounded-[1.7rem] inset-0 flex bg-white">
+        <div className={`absolute border-white rounded-[1.7rem] inset-0 flex bg-white transition-opacity
+  ease-in
+  duration-700
+  ${isOpen ? "opacity-100" : "opacity-0"}`} >
 
             <div className="justify-center relative flex overflow-scroll">
                 <button
@@ -29,7 +32,7 @@ const ArticleModal = ({ isOpen, onClose, content }) => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 

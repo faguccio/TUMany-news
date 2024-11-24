@@ -12,12 +12,12 @@ const VideoCard = ({ videoSrc, onViewArticle }) => {
                 Your browser does not support the video tag.
             </video>
             <div className="absolute bottom-0 right-0 mb-8">
-                <div className="p-4 flex justify-center">
+                <div className="p-8 flex justify-center">
                     <button
                         onClick={onViewArticle}
-                        className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full shadow-md transition-colors duration-300"
+                        className="bg-white hover:bg-gray-300 w-20 h-20 px-6 text-white font-bold rounded-full shadow-md transition-colors duration-300 text-black"
                     >
-                        View Article
+                        <img src="https://cdn-icons-png.flaticon.com/512/9293/9293723.png" />
                     </button>
                 </div>
 
