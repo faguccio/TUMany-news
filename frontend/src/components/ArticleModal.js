@@ -12,18 +12,18 @@ const ArticleModal = ({ isOpen, onClose, content }) => {
             <div className="justify-center relative flex overflow-scroll">
                 <button
                     onClick={onClose}
-                    className="fixed ml-[360px] mt-8 bg-red-500 hover:bg-red-600 text-white font-bold  py-1 px-3 rounded-full shadow-md"
+                    className="fixed ml-[460px] mt-8 bg-red-500 hover:bg-red-600 text-white font-bold  py-2 px-4 rounded-full shadow-md"
                 >
                     ×
                 </button>
                 <div className="m-10 my-24">
 
                     <div className="">
-                        <h1 className="text-4xl font-bold text-black">{content.title}</h1>
+                        <h1 className="text-5xl font-bold text-black">{content.title}</h1>
 
                         {content.sections.map((section) => (<div>
-                            <h2 className="mt-8 text-2xl">{section.title}</h2>
-                            <p className="text-gray-700 mt-3 text-balance">
+                            <h2 className="mt-8 text-4xl">{section.title}</h2>
+                            <p className="text-gray-700 mt-3 text-balance text-xl">
                                 {section.content}
                             </p>
                         </div>))}
