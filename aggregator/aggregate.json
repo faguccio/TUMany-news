@@ -1,5 +1,782 @@
 [
     {
+        "title": "r/electricvehicles ",
+        "description": "Have something to say that doesn't quite work as its own post? Comment random thoughts, suggestions and questions here. Vehicle recommendation requests, buying experiences, new vehicle sightings (please no content taken while driving) and tax rebate questions are all fair game. Surveys and self-promotion should be mod approved before posting.18 votes and 109 comments so far on Reddit",
+        "image": "No image",
+        "date": "2022-01-06T12:00:00.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/rxe23t/weekly_discussion_thread/"
+    },
+    {
+        "title": "The World’s Biggest Maker of EVs Has the Worst Appraisal of Human...",
+        "description": "Posted in r/electricvehicles by u/improvius • 120 points and 106 comments",
+        "image": "https://external-preview.redd.it/n5xjz52imWN5AWl5ArZpTVsWSWepeCDdrAwPsITbfvQ.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=08c649a6f169ad9e19b6fb1ab37dbb9757282678",
+        "date": "2024-11-22T13:40:21.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gx82vd/the_worlds_biggest_maker_of_evs_has_the_worst/"
+    },
+    {
+        "title": "Genesis wants a bigger slice of the US luxury market with new EVs...",
+        "description": "Posted in r/electricvehicles by u/self-fix • 38 points and 21 comments",
+        "image": "https://external-preview.redd.it/mVF2W76jeDwM2UqYwKcVvbtmeyyV-dJV3msMWexSCYM.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=801b919bd3b1ad92e7d508d5bf40547b8222f180",
+        "date": "2024-11-22T20:16:32.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxh8kj/genesis_wants_a_bigger_slice_of_the_us_luxury/"
+    },
+    {
+        "title": "What are the real world benefits of AWD over FWD for an electric...",
+        "description": "Most of the cars I'm looking at have 200+ HP and 200+ lb torque in FWD and these often get doubled for the AWD version. I understand it means you...",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-22T20:30:12.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxhjth/what_are_the_real_world_benefits_of_awd_over_fwd/"
+    },
+    {
+        "title": "Topgear Hongkong - The latest on the Geely EX5 Global Edition",
+        "description": "Posted in r/electricvehicles by u/csp4me • 5 points and 5 comments",
+        "image": "https://i.ytimg.com/vi/lrcmya_FZKY/hqdefault.jpg",
+        "date": "2024-11-23T09:03:21.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxvio7/topgear_hongkong_the_latest_on_the_geely_ex5/"
+    },
+    {
+        "title": "Tesla jumped the gun, Nissan drivers will have to wait a bit for...",
+        "description": "Posted in r/electricvehicles by u/1oneplus • 211 points and 200 comments",
+        "image": "https://external-preview.redd.it/3Y-MvJdHHD3RbYUWghO1rQjM-KwLfJz75XKSE_pnbnI.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=f44fc4f977704bbec7efe3a414fd691ef08cd7d4",
+        "date": "2024-11-22T12:56:04.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gx76qn/tesla_jumped_the_gun_nissan_drivers_will_have_to/"
+    },
+    {
+        "title": "Jaguar Land Rover to Buy Back 2,760 Model Year 2019 I-Pace Models...",
+        "description": "Posted in r/electricvehicles by u/vandy1981 • 82 points and 41 comments",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-22T19:21:55.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxfyrn/jaguar_land_rover_to_buy_back_2760_model_year/"
+    },
+    {
+        "title": "EU, China close to agreement over EV import tariffs, leading MEP says",
+        "description": "Posted in r/electricvehicles by u/youngbutgood • 60 points and 41 comments",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-22T21:14:13.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxijvs/eu_china_close_to_agreement_over_ev_import/"
+    },
+    {
+        "title": "Saw this post on X from @Tesla Charging that might interest this sub",
+        "description": "Nice that it will know if someone is using two stalls. Should make the transition to an open network be less stressful for Tesla drivers....",
+        "image": "https://external-preview.redd.it/GFx0P6nYXuXaD0Oxk7ONrpwuve1KncfS4TzYIzqoGz0.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=9ac89331e454bf8f1e153624e46020e2930a5ced",
+        "date": "2024-11-23T20:32:53.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy943q/saw_this_post_on_x_from_tesla_charging_that_might/"
+    },
+    {
+        "title": "EVSE with 500 watts ac or DC continuously?",
+        "description": "I have a pond with 18\" culvert 24/7 water flow. I understand that most AC 120V units will need 1500 watts. Is there any way to make use of the...",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-23T22:35:29.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gybugx/evse_with_500_watts_ac_or_dc_continuously/"
+    },
+    {
+        "title": "Hyundai recalls over 145,000 electrified US vehicles on loss of...",
+        "description": "Posted in r/electricvehicles by u/-protonsandneutrons- • 268 points and 68 comments",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-22T16:41:22.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxc44v/hyundai_recalls_over_145000_electrified_us/"
+    },
+    {
+        "title": "Electrek.co: Rivian Adventure Network open to other cars soon,...",
+        "description": "Posted in r/electricvehicles by u/UndividedCorruption • 3 points and 0 comments",
+        "image": "https://external-preview.redd.it/FFtuuApzwWu77geRJFTjHJ50RfXOHUVVUrVnYow_2Tc.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=560e9b4ed649cb8b7126f1725b025c65a3c4edd0",
+        "date": "2024-11-23T17:25:17.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy4tcl/electrekco_rivian_adventure_network_open_to_other/"
+    },
+    {
+        "title": "Tale of Two Carmakers: Jaguar vs Volvo",
+        "description": "Conservatives in social media has latched on to Volvo praise/Jaguar backlashesh. But real question is do they know EX90 is all-electric?",
+        "image": "https://external-preview.redd.it/WHxZbv1WMZiDSQOFQi6FuFeR8Zhr3FvjZgS5nPZJNTc.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=7e826bc90f86e4fc2879bab66584f88817d4c92d",
+        "date": "2024-11-23T22:27:24.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gybo2u/tale_of_two_carmakers_jaguar_vs_volvo/"
+    },
+    {
+        "title": "'It Would Just Be Dumb': Kia Exec On Plan To Kill EV Tax Credit |...",
+        "description": "Posted in r/electricvehicles by u/chrisdh79 • 686 points and 154 comments",
+        "image": "https://external-preview.redd.it/jkliUMj7ZMeB934OZ-21FnXN2x8u75qDihWtn94kF4Q.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=e1abd6edb5ec0a24552b69c493baa3aee97c8f00",
+        "date": "2024-11-22T14:50:56.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gx9jup/it_would_just_be_dumb_kia_exec_on_plan_to_kill_ev/"
+    },
+    {
+        "title": "Meet the PrankPort, the Fake EV Charging Port for That One...",
+        "description": "Posted in r/electricvehicles by u/praguer56 • 94 points and 66 comments",
+        "image": "https://external-preview.redd.it/diC3j8Gm_ZfBFBV9-fMvtOAiySFN88DxXAe7SDiY-_8.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=c3890f3b003aa94838e84ecb9b3c7ad4d7a7c20a",
+        "date": "2024-11-23T01:56:13.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxomuw/meet_the_prankport_the_fake_ev_charging_port_for/"
+    },
+    {
+        "title": "total newbie question please / and i know there will be lots of...",
+        "description": "Posted in r/electricvehicles by u/barakkassar • 4 points and 13 comments",
+        "image": "https://external-preview.redd.it/k7dx5oimcp2e1.png?overlay-align=bottom,left&crop=600:300,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2qwzm.png%3Fs%3D6c154937ec65dc4a7d6b258e4764bc34571f4fbe&width=600&height=300&auto=webp&s=9d399e24df2d3afdc11820ac9d059f86b1965727",
+        "date": "2024-11-23T19:29:58.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy7p62/total_newbie_question_please_and_i_know_there/"
+    },
+    {
+        "title": "In shock about public charging",
+        "description": "Just got an GMC electric car last week. Bought the Tesla universal charger & adapter for home charging. Whoops- wrong adapter- got the NACS but...",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-22T22:28:46.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxk80g/in_shock_about_public_charging/"
+    },
+    {
+        "title": "Winter tires on VW ID7 Pro?",
+        "description": "Hi guys I have an ID7 Pro with summer tires 235/50R19. What winter size should i get for this model? Any suggestions based on the consumption?",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-23T22:03:56.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gyb57u/winter_tires_on_vw_id7_pro/"
+    },
+    {
+        "title": "New car, charging question",
+        "description": "Hi, this is my first electric car since my 2013 ford focus electric and I think things have changed since then. I used to plug mine into a...",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-23T18:42:00.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy6l20/new_car_charging_question/"
+    },
+    {
+        "title": "EVConnect is garbage, or a bogus company owned by the oil industry.",
+        "description": "EVConnect is trash. It needs to die. The following experience is from a **brand new** (less than 6 months old) installation in Indiana that I used...",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-23T13:28:05.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gxzlyd/evconnect_is_garbage_or_a_bogus_company_owned_by/"
+    },
+    {
+        "title": "Do VW Dealers Really Want To Sell Scouts?",
+        "description": "In their ongoing battle with VW Corp. for the right to sell Scout EVs, VW dealers should be on their best behavior. Instead they're marking up the...",
+        "image": "https://external-preview.redd.it/NKdrmT5FFImb0aoMk25aa6Nw8H8E6ThbcMRlqspiwlc.jpg?width=325&height=170.157068063&auto=webp&crop=325:170.157068063,smart&s=26f8d602989a18e55576fe82b180553884f6ff1f",
+        "date": "2024-11-23T18:18:12.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy613y/do_vw_dealers_really_want_to_sell_scouts/"
+    },
+    {
+        "title": "My experience driving a electric heavy truck for 3 months.",
+        "description": "Pictures: https://imgur.com/a/1akcd0n Background: I drive trucks in Norway and 3 months ago we put our first our of 4 Scania 45S electric trucks...",
+        "image": "https://external-preview.redd.it/riy20BDnFEY7o4cCTQLid4x3oycDeEir6NoKLweFcU4.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=932d6e35355c45e491e3e637e9993592fda62d19",
+        "date": "2024-11-23T20:36:52.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy97b2/my_experience_driving_a_electric_heavy_truck_for/"
+    },
+    {
+        "title": "Mercedes Reinvents Brakes For EVs, Puts Them Inside The Drive Unit",
+        "description": "Posted in r/electricvehicles by u/reacTy • 589 points and 245 comments",
+        "image": "https://external-preview.redd.it/v0gY7p6Je_xI-OQCsI3TPmzHw7NVrUtWcTDt1sskTSM.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=cf2239397c1070ed51068d938b2ddf7432bd1e4e",
+        "date": "2024-11-23T14:47:03.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy17n3/mercedes_reinvents_brakes_for_evs_puts_them/"
+    },
+    {
+        "title": "Over 40% Of Tesla's Profit Comes From Selling Regulatory Credits",
+        "description": "Posted in r/electricvehicles by u/EaglesPDX • 275 points and 94 comments",
+        "image": "https://external-preview.redd.it/C-TxqhbzoNTdQsGFUSnJOVVugA0nkGOTe6-2sabDzAo.jpg?width=600&height=300&auto=webp&crop=600:300,smart&s=be9dc546e0810cff5ab0d227c14fdbaa5f0c7e2c",
+        "date": "2024-11-23T20:40:07.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gy99uf/over_40_of_teslas_profit_comes_from_selling/"
+    },
+    {
+        "title": "General Questions and Purchasing Advice Thread ",
+        "description": "**Need help choosing an EV, finding a home charger, or understanding whether you're eligible for a tax credit? Vehicle and product recommendation...",
+        "image": "https://www.redditstatic.com/new-icon.png",
+        "date": "2024-11-18T13:00:33.000Z",
+        "url": "https://www.reddit.com/r/electricvehicles/comments/1gu4588/general_questions_and_purchasing_advice_thread/"
+    },
+    {
+        "title": "Future Stellantis EVs might flex 800V at 400V Superchargers",
+        "description": "A patent suggests big electric trucks like the Ram REV or Ramcharger could near their 800-volt charge rate when plugged into Tesla Superchargers with this tech.",
+        "image": "https://images.hgmsites.net/hug/ram_100874850_h.jpg",
+        "date": "2024-11-15T16:54:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145029_future-stellantis-evs-might-flex-800v-at-400v-superchargers"
+    },
+    {
+        "title": "Pro-Trump EV disinformation worked in Michigan, polling suggests",
+        "description": "94% of the amount spent nationally on EV-related political ads was in Michigan—most of it against Biden/Harris EV policy, with no counter ads.",
+        "image": "https://images.hgmsites.net/hug/2022-gmc-hummer-ev-pre-production-at-factory-zero-plant-in-detroit-michigan_100815679_h.jpg",
+        "date": "2024-11-16T12:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145027_pro-trump-ev-disinformation-worked-in-michigan-polling-suggests"
+    },
+    {
+        "title": "Which electric cars have the most range?",
+        "description": "The 10 EVs rated with the longest driving range run the gamut on vehicle size, type, and efficiency.",
+        "image": "https://images.hgmsites.net/hug/lucid-air_100936250_h.webp",
+        "date": "2024-11-17T12:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1144941_which-electric-cars-have-the-most-range"
+    },
+    {
+        "title": "2026 Mercedes CLA will get J1772 and NACS charge ports, hybrid option",
+        "description": "The 2026 Mercedes-Benz CLA will be more than one next-gen car; it’ll preview the automaker’s future.",
+        "image": "https://images.hgmsites.net/hug/mercedes-benz-cla-class_100949224_h.webp",
+        "date": "2024-11-17T23:01:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145041_2026-mercedes-benz-cla-range-price"
+    },
+    {
+        "title": "Study: EV battery prices to drop by 50% by 2026",
+        "description": "That will get battery costs below the point needed to achieve EV price parity with gasoline vehicles.",
+        "image": "https://images.hgmsites.net/hug/audi-battery-assembly-at-brussels-belgium-factory_100870071_h.jpg",
+        "date": "2024-11-18T13:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1144890_study-ev-battery-prices-to-drop-by-50-by-2026"
+    },
+    {
+        "title": "Tesla Cybertruck wrap option disappears",
+        "description": "The ability to get some sort of color on a Tesla Cybertruck didn't last long.",
+        "image": "https://images.hgmsites.net/hug/tesla_100907901_h.jpg",
+        "date": "2024-11-18T16:49:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145050_tesla-cybertruck-wrap-option-disappears"
+    },
+    {
+        "title": "Mercedes-Benz CLA EV prototype covers 2,309 miles in 24 hours",
+        "description": "The electric Mercedes-Benz CLA hasn’t been revealed yet but it already toppled one of the Porsche Taycan’s records.",
+        "image": "https://images.hgmsites.net/hug/2026-mercedes-benz-cla-ev-prototype-sets-distance-record-at-nardo_100949258_h.webp",
+        "date": "2024-11-18T16:55:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145044_mercedes-benz-cla-ev-prototype-covers-2-309-miles-in-24-hours"
+    },
+    {
+        "title": "Lucid Air Pure recalled due to loss of drive power",
+        "description": "Some Lucid Airs have an issue stemming from the wiring harness that could cause the car to lose power.",
+        "image": "https://images.hgmsites.net/hug/2024-lucid-air_100917903_h.jpg",
+        "date": "2024-11-19T12:38:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145049_lucid-air-pure-recalled-due-to-loss-of-drive-power"
+    },
+    {
+        "title": "US-built 2025 Kia EV9 qualifies for $3,750 EV tax credit",
+        "description": "The EV9 will qualify for half of the $7,500 EV tax credit in 2025 but it's unclear if it will ever qualify for the full amount.",
+        "image": "https://images.hgmsites.net/hug/2025-kia-ev9_100946480_h.jpg",
+        "date": "2024-11-19T13:30:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145059_us-built-2025-kia-ev9-qualifies-for-3-750-ev-tax-credit"
+    },
+    {
+        "title": "Review: 2025 GMC Sierra EV Denali multitasks to the max",
+        "description": "The GMC Sierra EV Denali may be expensive, but it offers the kind of versatility and luxury ambience that will blast through preconceptions.",
+        "image": "https://images.hgmsites.net/hug/2025-gmc-sierra-ev-denali_100949539_h.webp",
+        "date": "2024-11-19T16:46:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145063_2025-gmc-sierra-ev-test-drive-review"
+    },
+    {
+        "title": "Vinfast VF 9 3-row electric SUV deliveries slowly begin",
+        "description": "The electric three-row Vinfast VF 9 is now real, though only a handful have been delivered.",
+        "image": "https://images.hgmsites.net/hug/first-u-s-deliveries-of-the-vinfast-vf-9_100949664_h.webp",
+        "date": "2024-11-20T12:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145071_vinfast-vf-9-3-row-electric-suv-deliveries-slowly-begin"
+    },
+    {
+        "title": "Electric Mini Cooper and Aceman not coming to US for now",
+        "description": "The latest electric Minis are on hold for the U.S. until further notice.",
+        "image": "https://images.hgmsites.net/hug/mini-cooper-hardtop_100896259_h.jpg",
+        "date": "2024-11-20T13:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145068_electric-mini-cooper-and-aceman-not-coming-to-us-for-now"
+    },
+    {
+        "title": "Electric Ram REV delayed to first half of 2025",
+        "description": "Ram's electric truck won't arrive on time as promised.",
+        "image": "https://images.hgmsites.net/hug/2025-ram-1500-rev_100880732_h.jpg",
+        "date": "2024-11-20T15:30:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145079_electric-ram-rev-delayed-to-first-half-of-2025"
+    },
+    {
+        "title": "2026 Genesis Electrified GV70 gets more range, NACS port",
+        "description": "The EV version of Genesis’ top-selling model upgrades to a larger battery and new cabin design.",
+        "image": "https://images.hgmsites.net/hug/2026-genesis-electrified-gv70_100949766_h.jpg",
+        "date": "2024-11-20T20:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145087_2026-genesis-electrified-gv70-preview"
+    },
+    {
+        "title": "BMW Neue Klasse electric SUV enters pre-production status",
+        "description": "Early examples of BMW's next-generation electric SUV are now rolling off an assembly line.",
+        "image": "https://images.hgmsites.net/hug/pre-production-of-bmw-neue-klasse-suv_100949866_h.webp",
+        "date": "2024-11-21T12:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145093_bmw-neue-klasse-electric-suv-enters-pre-production-status"
+    },
+    {
+        "title": "Jaguar EV concept teased ahead of Dec. 2 debut",
+        "description": "A concept previewing Jaguar's new EV will debut in Miami on Dec. 2.",
+        "image": "https://images.hgmsites.net/hug/teaser-for-jaguar-design-vision-concept_100950004_h.webp",
+        "date": "2024-11-21T13:00:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145095_jaguar-ev-concept-debut-date"
+    },
+    {
+        "title": "2026 Hyundai Ioniq 9 smooths the electric SUV form",
+        "description": "With a sleeker, more rakish shape than its Kia EV9 cousin, the Ioniq 9 puts the emphasis on comfort, quietness, and efficiency.",
+        "image": "https://images.hgmsites.net/hug/2026-hyundai-ioniq-9_100949938_h.webp",
+        "date": "2024-11-21T16:40:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145090_2025-hyundai-ioniq-9-preview"
+    },
+    {
+        "title": "2025 Kia EV6 gets bigger battery, will be U.S.-built",
+        "description": "The refreshed electric sedan debuted at the 2024 Los Angeles auto show with a larger 68.0-kwh battery pack.",
+        "image": "https://images.hgmsites.net/hug/2025-kia-ev6_100950043_h.jpg",
+        "date": "2024-11-21T17:45:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145081_2025-kia-ev6-gets-bigger-battery-will-be-u-s-built"
+    },
+    {
+        "title": "2026 Kia EV9 GT goes fast with 501 hp, charges fast with NACS port",
+        "description": "The electric three-row SUV gets a performance and charge boost.",
+        "image": "https://images.hgmsites.net/hug/kia-ev9_100950042_h.webp",
+        "date": "2024-11-21T17:45:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145092_2026-kia-ev9-gt-goes-fast-with-501-hp-charges-fast-with-nacs-port"
+    },
+    {
+        "title": "Honda's ready to build prototype solid-state batteries for EVs",
+        "description": "Honda's one step closer to its solid-state battery future.",
+        "image": "https://images.hgmsites.net/hug/honda-solid-state-battery-production-demonstration-plant-in-sakura-city-japan_100950052_h.webp",
+        "date": "2024-11-22T13:35:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145096_honda-s-ready-to-build-prototype-solid-state-batteries-for-evs"
+    },
+    {
+        "title": "Northvolt files for bankruptcy",
+        "description": "Northvolt went from Swedish battery darling to needing $1 to $1.2 billion to remain fully operational.",
+        "image": "https://images.hgmsites.net/hug/northvolt-lithium-ion-battery-cell_100939834_h.webp",
+        "date": "2024-11-22T14:13:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145106_northvolt-files-for-bankruptcy"
+    },
+    {
+        "title": "Electric Chrysler Pacifica minivan coming with flexible interior",
+        "description": "Chrysler's electric minivan will keep the Pacifica nameplate.",
+        "image": "https://images.hgmsites.net/hug/chrysler-portal-concept-2017-consumer-electronics-show_100587392_h.jpg",
+        "date": "2024-11-22T16:57:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145102_electric-chrysler-pacifica-minivan-coming-flexible-interior"
+    },
+    {
+        "title": "Mercedes In-Drive moves braking system inside EV's electric motor",
+        "description": "Mercedes has reinvented the braking system for a future electric age.",
+        "image": "https://images.hgmsites.net/hug/mercedes-benz-in-drive-brake-system_100950161_h.webp",
+        "date": "2024-11-22T23:01:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145099_mercedes-in-drive-moves-braking-system-inside-ev-s-electric-motor"
+    },
+    {
+        "title": "Mercedes tech may enable EV batteries with mixed cell types",
+        "description": "Mercedes sees optimized range and bidirectional charging made possible with the use of micro-converters to optimize energy flow among multiple types of battery cells and even chemistries.",
+        "image": "https://images.hgmsites.net/hug/mercedes-benz-micro-converters_100950188_h.webp",
+        "date": "2024-11-22T23:01:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145111_mercedes-tech-may-enable-ev-batteries-with-mixed-cell-types"
+    },
+    {
+        "title": "Mercedes developing solar paint for EVs",
+        "description": "Mercedes is working on solar paint, which is like a paste and could coat an entire vehicle.",
+        "image": "https://images.hgmsites.net/hug/mercedes-benz-solar-paint-coating_100950189_h.webp",
+        "date": "2024-11-22T23:01:00.000Z",
+        "url": "https://www.greencarreports.com/news/1145113_mercedes-developing-solar-paint-for-evs"
+    },
+    {
+        "title": "Paris Motor Show 2024: The unexpected new tech on display this year",
+        "description": "We take a look at the less publicised tech that’s on display at the Paris Motor Show at the Porte de Versailles expo centre this week.",
+        "image": "https://static.euronews.com/articles/stories/08/79/52/48/1200x675_cmsv2_d0188326-1486-5f69-a0c4-eef7d5c18f2a-8795248.jpg",
+        "date": "2024-10-17T15:35:14.000Z",
+        "url": "https://www.euronews.com/next/2024/10/17/microcars-delivery-trucks-and-go-karts-the-more-unusual-tech-unveiled-at-the-paris-motor-s"
+    },
+    {
+        "title": "Thinking of buying an EV? This is what you need to bear in mind",
+        "description": "In the first part of our new series, The Switch, we look at what you need to consider about buying an electric car before you start browsing vehicles.",
+        "image": "https://static.euronews.com/articles/stories/08/79/81/28/1200x675_cmsv2_6d31fd79-b43d-58a9-b8ee-c82aaff76699-8798128.jpg",
+        "date": "2024-10-18T06:00:21.000Z",
+        "url": "https://www.euronews.com/next/2024/10/18/shopping-for-a-new-ev-these-are-the-five-questions-to-bear-in-mind-before-visiting-a-deale"
+    },
+    {
+        "title": "Volvo's earnings slip as freight and construction activity slows",
+        "description": "The Swedish manufacturer saw a drop in vehicle sales and is predicting little growth for 2025.",
+        "image": "https://static.euronews.com/articles/stories/08/79/89/50/1200x675_cmsv2_22bf9a04-93bb-5742-9198-1304085985f8-8798950.jpg",
+        "date": "2024-10-18T10:57:18.000Z",
+        "url": "https://www.euronews.com/business/2024/10/18/volvos-earnings-slip-as-freight-and-construction-activity-slows"
+    },
+    {
+        "title": "Paris Motor Show 2024: Highlights from this year's blockbuster event",
+        "description": "The biennial Paris Motor Show hasn't disappointed, showcasing the latest in electric mobility. We take you through the week that was with our highlights.",
+        "image": "https://static.euronews.com/articles/stories/08/79/74/74/1200x675_cmsv2_da34d34c-4bb0-560d-8747-205f734ba12a-8797474.jpg",
+        "date": "2024-10-20T11:11:00.000Z",
+        "url": "https://www.euronews.com/next/2024/10/20/paris-motor-show-2024-all-the-best-evs-and-tech-unveiled-at-this-years-blockbuster-show"
+    },
+    {
+        "title": "EU DECODED: Pros and cons of tariffs on Chinese electric vehicles",
+        "description": "The first episode of this programme that aims to decode the European Union (EU) legislative process explains why the European automotive industry is at a critical crossroads. Will tariffs on Chinese electric vehicles help competitiveness or trigger a trade war?",
+        "image": "https://static.euronews.com/articles/stories/08/79/75/02/1200x675_cmsv2_eb4176b3-8711-56d6-a446-ce77054721e1-8797502.jpg",
+        "date": "2024-10-22T15:00:19.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/10/22/eu-decoded-pros-and-cons-of-tariffs-on-chinese-electric-vehicles"
+    },
+    {
+        "title": "EU new car registrations for September stay on downward trend",
+        "description": "EU new car registrations in September were mainly dampened by poor figures from France, Italy and Germany. Once again, Spain bucked the trend.",
+        "image": "https://static.euronews.com/articles/stories/08/80/54/18/1200x675_cmsv2_f8e277e1-94c2-5d9c-bc45-6a950971ae3d-8805418.jpg",
+        "date": "2024-10-23T05:15:48.000Z",
+        "url": "https://www.euronews.com/business/2024/10/23/eu-new-car-registrations-for-september-continue-to-take-a-slide"
+    },
+    {
+        "title": "Tesla shares take off on strong earnings as Cybertruck makes a profit",
+        "description": "Tesla shares soar following better-than-expected third-quarter earnings as its electric car sales returned to growth, while the Cybertruck achieved profitability for the first time.",
+        "image": "https://static.euronews.com/articles/stories/08/81/12/88/1200x675_cmsv2_f1196942-337f-5eef-a4ee-317e7470bd14-8811288.jpg",
+        "date": "2024-10-24T06:58:20.000Z",
+        "url": "https://www.euronews.com/business/2024/10/24/tesla-shares-take-off-on-strong-earnings-as-cybertruck-finally-makes-a-profit"
+    },
+    {
+        "title": "Fossil fuel company car subsidies cost EU taxpayers €42bn a year",
+        "description": "Subsidies for petrol and diesel company cars cost EU taxpayers €42bn a year, study finds.",
+        "image": "https://static.euronews.com/articles/stories/08/81/43/62/1200x675_cmsv2_842c6e1b-665b-50c0-8a6b-8a239c92a7b8-8814362.jpg",
+        "date": "2024-10-25T15:03:10.000Z",
+        "url": "https://www.euronews.com/green/2024/10/25/eu-taxpayers-fork-out-42bn-a-year-on-subsidies-for-fossil-fuel-company-cars-study-finds"
+    },
+    {
+        "title": "When will EVs and petrol cars cost the same to buy and run?",
+        "description": "As our new series The Switch continues, we look at how EVs may be cheaper to run but more expensive to buy, and ask if this is likely to change in the future.",
+        "image": "https://static.euronews.com/articles/stories/08/81/58/68/1200x675_cmsv2_33c276e9-1d4f-5eef-9359-593aeac29195-8815868.jpg",
+        "date": "2024-10-27T08:00:55.000Z",
+        "url": "https://www.euronews.com/next/2024/10/27/will-evs-ever-reach-price-parity-with-petrol-and-diesel-cars-and-if-so-when"
+    },
+    {
+        "title": "‘Geologically blessed’: How to build a battery without China",
+        "description": "“We very often confuse availability with reliability,” says Kazakhstan’s minister for industry.",
+        "image": "https://static.euronews.com/articles/stories/08/80/50/58/1200x675_cmsv2_2c7a99a2-bc07-50ad-838e-e80d96dec992-8805058.jpg",
+        "date": "2024-10-28T06:00:27.000Z",
+        "url": "https://www.euronews.com/business/2024/10/28/geologically-blessed-how-kazakhstan-can-help-europes-green-transition"
+    },
+    {
+        "title": "EU gives final green light to steep tariffs on Chinese electric cars",
+        "description": "The extra tariffs on China-made electric cars will go ahead as planned, the European Commission has confirmed, despite ongoing talks with China.",
+        "image": "https://static.euronews.com/articles/stories/08/82/13/58/1200x675_cmsv2_1ea669be-a46b-5d61-8913-eb2467d799c3-8821358.jpg",
+        "date": "2024-10-29T17:37:51.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/10/29/eu-gives-final-green-light-to-steep-tariffs-on-chinese-electric-cars"
+    },
+    {
+        "title": "China takes EU to WTO over 'unreasonable' tariffs on electric cars",
+        "description": "Trade frictions between the EU and China escalate as Beijing files a WTO lawsuit over the tariffs imposed on its electric cars.",
+        "image": "https://static.euronews.com/articles/stories/08/82/24/98/1200x675_cmsv2_ab00fc87-b17d-50b1-b661-17ed8e555499-8822498.jpg",
+        "date": "2024-10-30T10:27:15.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/10/30/china-takes-eu-to-wto-over-unreasonable-tariffs-on-electric-cars-but-bets-on-talks"
+    },
+    {
+        "title": "What's next in the EU-China trade tussle?",
+        "description": "EU tariffs on Chinese electric vehicles (EV) came into force on Wednesday, October 30, and will remain in place for the next five years. But what's next in the ongoing trade tussle?",
+        "image": "https://static.euronews.com/articles/stories/08/82/24/80/1200x675_cmsv2_279dceb9-ee16-5af4-a370-c0e2ce24b7e1-8822480.jpg",
+        "date": "2024-10-31T06:51:06.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/10/31/whats-next-in-the-eu-china-trade-tussle-radio-schuman"
+    },
+    {
+        "title": "Stellantis revenue plunges as falling EU and US sales hit car giant",
+        "description": "Europe's second-largest car maker, Stellantis, reported that its net revenues slumped by 27% in its latest earnings update as it aims to slim down its inventory and launch new products.",
+        "image": "https://static.euronews.com/articles/stories/08/82/48/10/1200x675_cmsv2_c4b93fb0-c777-5dc8-92e7-dbb8773172c8-8824810.jpg",
+        "date": "2024-10-31T11:21:30.000Z",
+        "url": "https://www.euronews.com/business/2024/10/31/stellantis-revenue-plunges-as-falling-eu-and-us-sales-hit-car-giant"
+    },
+    {
+        "title": "Chinese carmaker SAIC to sue EU over new 45% tariffs",
+        "description": "State-owned carmaker SAIC Motor said it will take Brussels to the European Court of Justice to \"protect its legitimate rights and interests,\" as the ongoing trade row escalates into products like brandy, dairy products and chemicals.",
+        "image": "https://static.euronews.com/articles/stories/08/82/49/64/1200x675_cmsv2_f2affc7a-6041-596e-a77c-03bbb9a37030-8824964.jpg",
+        "date": "2024-10-31T12:46:34.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/10/31/chinese-carmaker-saic-to-sue-eu-over-new-45-tariffs-stoking-trade-tensions"
+    },
+    {
+        "title": "Stick to the fossil fuel car ban, says incoming EU transport chief",
+        "description": "Incoming Greek commissioner wins over MEPs with confident performance throughout a gruelling hearing that saw him reject calls to slow the switch to electric vehicles.",
+        "image": "https://static.euronews.com/articles/stories/08/83/35/22/1200x675_cmsv2_1308e2c0-585a-5ef2-ae09-0aaa5c6df819-8833522.jpg",
+        "date": "2024-11-05T13:47:49.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/11/05/stick-to-the-fossil-fuel-car-ban-says-incoming-eu-transport-chief"
+    },
+    {
+        "title": "Recharging the debate: Are EVs just for rich men?",
+        "description": "Watch our live debate again in the video below to hear how industry experts and politicians want to shake up the EV industry, the market and policy to increase appeal to women and the population as a whole.",
+        "image": "https://static.euronews.com/articles/stories/08/84/66/28/1200x675_cmsv2_8d011c19-f4b0-5003-94fb-9a832fab11a2-8846628.jpg",
+        "date": "2024-11-12T11:50:05.000Z",
+        "url": "https://www.euronews.com/2024/11/12/recharging-the-debate-are-evs-just-for-rich-men"
+    },
+    {
+        "title": "Ford to cut thousands of jobs in Europe blaming poor EV sales",
+        "description": "The job cuts, which will account for around 14% of the company's total European workforce, are expected to happen by the end of 2027.",
+        "image": "https://static.euronews.com/articles/stories/08/86/39/12/1200x675_cmsv2_a8ec9319-ee7b-533e-8942-929d487b6172-8863912.jpg",
+        "date": "2024-11-20T14:46:05.000Z",
+        "url": "https://www.euronews.com/business/2024/11/20/ford-to-cut-thousands-of-jobs-in-europe-blaming-poor-ev-sales-and-economy"
+    },
+    {
+        "title": "October new car registrations inch up as Spain and Germany see rebound",
+        "description": "EU new car registrations rose in October, boosted by robust performance in Germany and Spain.",
+        "image": "https://static.euronews.com/articles/stories/08/86/56/58/1200x675_cmsv2_06e04bb5-a5f5-556c-9efb-3c301e2c5043-8865658.jpg",
+        "date": "2024-11-21T13:49:49.000Z",
+        "url": "https://www.euronews.com/business/2024/11/21/new-car-registrations-rebound-in-october-after-gains-in-spain-and-germany"
+    },
+    {
+        "title": "How EV charging sector can fuel the European economy",
+        "description": "Creating hundreds of thousands of jobs and adding more than €90bn to the Europan economy over the next 10 years is the EV charging sector's promise if certain hurdles are cleared from the pathway of e-mobility in Europe.",
+        "image": "https://static.euronews.com/articles/stories/08/86/59/78/1200x675_cmsv2_aa20f363-e223-5597-8814-045b0491adcf-8865978.jpg",
+        "date": "2024-11-22T06:05:05.000Z",
+        "url": "https://www.euronews.com/business/2024/11/22/how-ev-charging-sector-can-fuel-the-european-economy"
+    },
+    {
+        "title": "Northvolt files for bankruptcy in major blow to European EV sector",
+        "description": "The Swedish battery developer and manufacturer, Northvolt, has filed for bankruptcy, as the company struggles with mounting debt, after it was unable to secure rescue funding and was left with only one week of cash reserves.",
+        "image": "https://static.euronews.com/articles/stories/08/86/75/24/1200x675_cmsv2_7cf38ea2-2391-5cc5-ab61-24a0d5850b29-8867524.jpg",
+        "date": "2024-11-22T11:11:52.000Z",
+        "url": "https://www.euronews.com/business/2024/11/22/northvolt-files-for-bankruptcy-in-major-blow-to-european-ev-sector"
+    },
+    {
+        "title": "Thousands march across Europe protesting violence against women",
+        "description": "Violence against women and girls remains largely unreported due to the impunity, silence, stigma and shame surrounding it.",
+        "image": "https://static.euronews.com/articles/stories/08/87/00/50/1200x675_cmsv2_29cdb365-9f05-53bc-a03a-72b4e94e8c26-8870050.jpg",
+        "date": "2024-11-23T17:09:47.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/11/23/thousands-demonstrate-across-france-and-italy-protesting-violence-against-women"
+    },
+    {
+        "title": "Donald Tusk's party chooses Warsaw mayor as presidential candidate",
+        "description": "Warsaw mayor Rafał Trzaskowski has been chosen by Prime Minister Donald Tusk's centrist Civic Coalition as its candidate for next year's presidential election, defeating Foreign Minister Radek Sikorski.",
+        "image": "https://static.euronews.com/articles/stories/08/86/98/72/1200x675_cmsv2_a7282965-61dd-590f-93d0-34d21a661cab-8869872.jpg",
+        "date": "2024-11-23T17:55:16.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/11/23/donald-tusks-party-chooses-warsaw-mayor-as-presidential-candidate"
+    },
+    {
+        "title": "Macron marks 80th anniversary of the liberation of Strasbourg",
+        "description": "French President Emmanuel Macron attends commemoration ceremonies of Strasbourg liberation.",
+        "image": "https://static.euronews.com/articles/stories/08/87/01/52/1200x675_cmsv2_727b14a6-abd8-5ec9-af1d-6f3256f0bef8-8870152.jpg",
+        "date": "2024-11-23T21:29:46.000Z",
+        "url": "https://www.euronews.com/my-europe/2024/11/23/macron-marks-80th-anniversary-of-the-liberation-of-strasbourg-during-wwii"
+    },
+    {
+        "title": "COP29: Summit ends with $300bn a year climate finance deal",
+        "description": "After concerns climate talks in Baku could collapse, the gavel came down on a finance deal in the early hours of the morning.",
+        "image": "https://static.euronews.com/articles/stories/08/87/01/00/1200x675_cmsv2_88e6535b-33b7-5c6f-b218-da4fffbaf550-8870100.jpg",
+        "date": "2024-11-23T23:39:36.000Z",
+        "url": "https://www.euronews.com/green/2024/11/24/cop29-summit-ends-with-300bn-a-year-climate-finance-deal-for-developing-nations"
+    },
+    {
+        "title": "BYD stays ahead of its competitors in Chinese EV market",
+        "description": "BYD led the Chinese electric vehicle (EV) market between January and July, but which carmakers followed in its wake?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/evv-china-pt2-16-9-24-e1726495534982.jpg",
+        "date": "2024-09-16T15:15:29.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/byd-stays-ahead-of-its-competitors-in-chinese-ev-market/"
+    },
+    {
+        "title": "Tesla and BYD do battle in July’s global EV market",
+        "description": "With global electric vehicle (EV) registrations performing strongly in July, which models came out on top in terms of sales?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/global-evv-17-9-24-scaled-e1726588748906.jpg",
+        "date": "2024-09-17T16:05:13.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/tesla-and-byd-do-battle-in-julys-global-ev-market/"
+    },
+    {
+        "title": "Which car brands sold the most EVs in July?",
+        "description": "The global electric vehicle market was dominated by plug-in hybrid registrations in July. But which brands emerged as the biggest sellers?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/evv-v2-18-9-24-e1726673519383.jpg",
+        "date": "2024-09-18T17:49:05.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/whichcar-brands-sold-most-evs-july/"
+    },
+    {
+        "title": "European EV registrations fall in July with Tesla on top",
+        "description": "July marked the third consecutive month of decline for electric vehicles (EVs) in Europe. Which models came out on top?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/evv-23-9-24-e1727090295154.jpg",
+        "date": "2024-09-23T12:15:22.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/european-ev-registrations-fall-in-july-with-tesla-on-top/"
+    },
+    {
+        "title": "The economy behind large batteries in electric vehicles",
+        "description": "As carmakers chase greater electric vehicle (EV) ranges, batteries keep getting bigger. But do these larger energy-storage units pay off?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/webinar-follow-up-27-9-24-e1727430328396.jpg",
+        "date": "2024-09-27T11:45:33.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/the-economy-behind-large-batteries-in-electric-vehicles-is-bigger-better/"
+    },
+    {
+        "title": "BMW records growth as Tesla slips in European EV market",
+        "description": "BMW posted a positive performance in July’s European electric vehicle (EV) market, while Tesla’s dominance showed signs of slipping.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/Plug-1024x683.jpg",
+        "date": "2024-09-30T11:57:45.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/bmw-records-growth-as-tesla-slips-in-european-ev-market/"
+    },
+    {
+        "title": "Is Europe’s EV decline impacting market forecasts?",
+        "description": "With Europe’s light vehicle market slowing, how have electric vehicle forecasts been affected?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/09/EV.Outlook-scaled.jpg",
+        "date": "2024-10-01T11:30:00.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/is-europes-ev-decline-impacting-market-forecasts/"
+    },
+    {
+        "title": "BYD Seagull sales soar in China’s EV market",
+        "description": "The BYD Seagull flew up China’s electric vehicle (EV) best-sellers list in August. But how did other models perform?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/china-evv-3-10-24-e1727973227994.jpg",
+        "date": "2024-10-03T17:27:52.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/byd-seagull-sales-soar-in-chinas-ev-market/"
+    },
+    {
+        "title": "BYD remains on top in China’s EV market",
+        "description": "BYD’s grip on China’s EV market did not falter in August. José Pontes, data director at EV Volumes, explores the figures.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/china-ev-market-10-10-24-e1728571413352.jpg",
+        "date": "2024-10-10T14:43:45.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/byd-remains-on-top-in-chinas-ev-market/"
+    },
+    {
+        "title": "Tesla Model Y drives global EV market in August",
+        "description": "Nearly 1.5 million electric vehicles (EVs) were registered globally in August, with the Telsa Model Y leading the global market.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/global-evv-15-10-24-e1728979582156.jpg",
+        "date": "2024-10-15T14:17:46.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/tesla-model-y-drives-global-ev-market-in-august/"
+    },
+    {
+        "title": "BYD enjoys significant lead in global EV market",
+        "description": "More than doubling the market share of its closest competitor, BYD sold the most electric vehicles (EVs) globally in August.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/global-evv-16-10-24-e1729091040268.jpg",
+        "date": "2024-10-16T15:03:18.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/byd-enjoys-significant-lead-in-global-ev-market/"
+    },
+    {
+        "title": "Discussing design at the 2024 Paris Motor Show",
+        "description": "This year’s Paris Motor Show had plenty of world premieres and European debuts. But what did carmakers attending the event have to say?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/Image.jpg",
+        "date": "2024-10-18T17:31:55.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/discussing-design-2024-paris-motor-show/"
+    },
+    {
+        "title": "European EV decline driven by incentive effect",
+        "description": "A severe drop was recorded in European EV deliveries in August, worsened by a skewed result from last year.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/evv-30-10-24-e1730302264979.jpg",
+        "date": "2024-10-30T17:05:06.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/european-ev-decline-driven-by-incentive-effect/"
+    },
+    {
+        "title": "Rivals close in on Tesla in European EV market race",
+        "description": "Despite Tesla having a comfortable hold on the European electric vehicle (EV) market last year, continental brands are closing in.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/10/EVV-31-10-24-e1730382147991.jpg",
+        "date": "2024-10-31T14:51:38.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/rivals-close-in-on-tesla-in-european-ev-market-race/"
+    },
+    {
+        "title": "Can retro model names boost BEV sales?",
+        "description": "Carmakers are finding retro ways of inspiring consumers to buy battery-electric vehicles (BEVs) as the market endures a challenging period.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/11/retro-1-11-24-scaled-e1730478528111.jpg",
+        "date": "2024-11-01T17:10:27.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/can-retro-model-names-boost-bev-sales/"
+    },
+    {
+        "title": "BYD dominates record-breaking Chinese EV market in September",
+        "description": "Electric vehicle (EV) volumes soared in September, as BYD continued its domestic market domination. Autovista24 investigates.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/11/china-evv-11-11-24-e1731333824933.jpg",
+        "date": "2024-11-11T14:18:51.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/on-song-byd-dominates-record-breaking-chinese-ev-market-in-september/"
+    },
+    {
+        "title": "BYD on top in Chinese EV market during September",
+        "description": "Representing over half of the top 20 electric vehicle (EV) best-sellers list during September, BYD continued to dominate domestically.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/11/china-ev-brands-14-11-24-e1731579374104.jpg",
+        "date": "2024-11-14T15:01:45.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/byd-on-top-in-chinese-ev-market-during-september/"
+    },
+    {
+        "title": "European EV market grows for the first time since April",
+        "description": "The European electric vehicle (EV) market bounced back in September, with record performances in the best-sellers table.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/11/EVV-15-11-24-e1731679698361.jpg",
+        "date": "2024-11-15T14:54:28.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/european-ev-market-grows-for-the-first-time-since-april/"
+    },
+    {
+        "title": "Improved Tesla performance in Europe but competition closes in",
+        "description": "Tesla continued to lead the growing European electric vehicle (EV) market, but its competitors have closed the gap.",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/11/europe-evv-19-11-24-e1732019100773.jpg",
+        "date": "2024-11-19T15:48:11.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/improved-tesla-performance-in-europe-but-competition-closes-in/"
+    },
+    {
+        "title": "Global EV market reaches new record",
+        "description": "The global EV market hit a record 1.7 million registrations in September. But which models helped to push the volume upwards?",
+        "image": "https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2024/11/Gloabl.EVV_-scaled.jpg",
+        "date": "2024-11-22T14:29:54.000Z",
+        "url": "https://autovista24.autovistagroup.com/news/global-ev-market-reaches-new-record/"
+    },
+    {
+        "title": "Australian electric vehicle sales by month and by model in 2024",
+        "description": "A full breakdown of all electric vehicle sales by month and by model in Australia in 2024. Latest data includes October.",
+        "image": "https://thedriven.io/wp-content/uploads/2023/10/BYD-Dolphin-Melbourne-Rhett-F.jpg?w=640",
+        "date": "2024-11-06T00:12:59.000Z",
+        "url": "https://thedriven.io/2024/11/06/australian-electric-vehicle-sales-by-month-and-by-model-in-2024/"
+    },
+    {
+        "title": "Trump transition team decides to kill EV tax credit, and Elon Musk is delighted",
+        "description": "Trump to sweep away EV tax credits in stalling US market – to the delight of Tesla CEO Elon Musk, the new head of government efficiency.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/20241114120212802236-original.jpeg?w=640",
+        "date": "2024-11-15T00:01:22.000Z",
+        "url": "https://thedriven.io/2024/11/15/trump-transition-team-decides-to-kill-ev-tax-credit-and-elon-musk-is-delighted/"
+    },
+    {
+        "title": "RedEarth to make bidirectional chargers in Australia in early push on V2G technology",
+        "description": "Brisbane-based RedEarth to become first in Australia to manufacture bidirectional chargers as market readies for big switch to vehicle to grid technologies.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/ambibox.jpg?w=640",
+        "date": "2024-11-17T13:01:13.000Z",
+        "url": "https://thedriven.io/2024/11/18/redearth-first-out-of-blocks-on-vehicle-to-grid-to-make-bidirectional-chargers-in-australia/"
+    },
+    {
+        "title": "Amber ready to pay customers to charge their EVs as it prepares for vehicle to grid",
+        "description": "Amber offers new product that could see EV owners being paid to charge their cars, but its big focus is on V2G tech that will turn cars into batteries on wheels and households into revenue earners.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/amber-v2G.jpg?w=640",
+        "date": "2024-11-19T01:13:54.000Z",
+        "url": "https://thedriven.io/2024/11/19/amber-ready-to-pay-customers-to-charge-their-evs-as-it-prepares-for-vehicle-to-grid/"
+    },
+    {
+        "title": "Ludicrous Feed: Battery electric vehicle fires in Australia",
+        "description": "How many plug in electric vehicles have actually caught fire in Australia so far and what were their circumstances? Tom goes through the latest data.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/ev-fires-screenshot.jpg?w=640",
+        "date": "2024-11-20T02:18:20.000Z",
+        "url": "https://thedriven.io/2024/11/20/ludicrous-feed-battery-electric-vehicle-fires-in-australia/"
+    },
+    {
+        "title": "Biofil EV chargers running on waste cooking oil plug the network gaps again",
+        "description": "Home grown biofil EV fast chargers are playing a crucial role filling in the network gaps across the Nullarbor and other remote parts of Western Australia.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/biofil-charger.jpg?w=640",
+        "date": "2024-11-20T20:50:04.000Z",
+        "url": "https://thedriven.io/2024/11/21/biofil-ev-chargers-running-on-waste-cooking-oil-plug-the-network-gaps-again/"
+    },
+    {
+        "title": "Batteries on wheels: Electric cars may save power grid, if drivers let them",
+        "description": "Electric vehicles could put strain Australia’s energy networks, or they might save them: It will be up to motorists to decide which path the nation takes, experts say.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/10/Close-up-of-V2G-connection.jpg?w=640",
+        "date": "2024-11-20T23:14:43.000Z",
+        "url": "https://thedriven.io/2024/11/21/batteries-on-wheels-electric-cars-may-save-power-grid-if-drivers-let-them/"
+    },
+    {
+        "title": "Tesla offers faster acceleration for dual motor Model 3, shaving half a second off sprint",
+        "description": "Tesla has offered a new option to upgrade the Model 3 and deliver faster acceleration.",
+        "image": "https://thedriven.io/wp-content/uploads/2023/10/Tesla-Model-3-2024-refresh.jpg?w=640",
+        "date": "2024-11-21T01:30:14.000Z",
+        "url": "https://thedriven.io/2024/11/21/tesla-offers-faster-acceleration-for-dual-motor-model-3-shaving-half-a-second-off-sprint/"
+    },
+    {
+        "title": "I bought a Kia EV9 to replace my Toyota Kluger, and I’m loving it",
+        "description": "I needed a car that does a lot of mileage, can fit a family of five, and can tow. The Kia EV9 is a joy to drive, and it can back up my all electric home.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/EV9-RH-front-quarter-view-V2.jpg?w=640",
+        "date": "2024-11-21T02:21:04.000Z",
+        "url": "https://thedriven.io/2024/11/21/i-bought-a-kia-ev9-to-replace-my-toyota-kluger-and-im-loving-it/"
+    },
+    {
+        "title": "Reader question: Where can I get reliable data on EV range and efficiency?",
+        "description": "Hi Bryce, I’m wondering about the energy consumption for the MG4 Excite 51 published by MG.  The figure is 18.4 kWh per 100km. None of these figures seem particularly congruent with the WLTP claime…",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/Cumulative-efficiency-in-the-BYD-Seal.webp?w=640",
+        "date": "2024-11-21T05:00:17.000Z",
+        "url": "https://thedriven.io/2024/11/21/reader-question-where-can-i-get-reliable-data-on-ev-range-and-efficiency/"
+    },
+    {
+        "title": "Hyundai unveils its range topping three-row Ioniq 9, on sale in 2025",
+        "description": "Hyundai unveils the Ioniq 9, a three-row, 7-seat all-electric SUV with expansive interior space. But Australia may miss out on the swivel seat options that create a lounge effect.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/Hyundai-IONIQ-9-front.webp?w=640",
+        "date": "2024-11-21T05:36:12.000Z",
+        "url": "https://thedriven.io/2024/11/21/hyundai-unveils-its-range-topping-three-row-ioniq-9-on-sale-in-2025/"
+    },
+    {
+        "title": "Polestar 4 test drive: A fast and luxurious electric SUV coupé, with no rear window",
+        "description": "The Polestar 4 improves on the Polestar 2 in many ways, including interior space and storage options. Will it be a top seller? That may depend on what customers make of the rear view camera.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/Polestar-4-three-quarter-front.webp?w=640",
+        "date": "2024-11-21T06:00:30.000Z",
+        "url": "https://thedriven.io/2024/11/21/polestar-4-test-drive-a-fast-and-luxurious-electric-suv-coupe-with-no-rear-window/"
+    },
+    {
+        "title": "Battery electric trucks best option to cut transport emissions, hydrogen models almost non existent",
+        "description": "Battery-electric trucks are slowly gaining market share, but hydrogen fuel cell models are “almost non-existent,” new report finds.",
+        "image": "https://thedriven.io/wp-content/uploads/2023/06/Volvo-FL-FE-new-batteries-2023-2.jpg?w=640",
+        "date": "2024-11-21T19:33:07.000Z",
+        "url": "https://thedriven.io/2024/11/22/battery-electric-trucks-best-option-to-cut-transport-emissions-hydrogen-models-almost-non-existent/"
+    },
+    {
+        "title": "Geely’s upcoming EX5 SUV gets approval for sale in Australia",
+        "description": "Geely’s upcoming electric SUV gets Australian approval, hinting at three locally-bound variants on the light-weight family electric SUV.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/Geely-EX5-Lineup-Ningbo.jpg?w=640",
+        "date": "2024-11-22T00:10:17.000Z",
+        "url": "https://thedriven.io/2024/11/22/geelys-upcoming-ex5-suv-gets-approval-for-sale-in-australia/"
+    },
+    {
+        "title": "Blind spot warning: Tesla rolls out another key safety feature with software",
+        "description": "Tesla rolls out another important safety features in new software update, making it’s cars safer for drivers and other road users.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/03/Tesla-Model-3-Highland-Riz-Akhtar.jpg?w=640",
+        "date": "2024-11-22T21:50:21.000Z",
+        "url": "https://thedriven.io/2024/11/23/blind-spot-warning-tesla-rolls-out-another-key-safety-feature-with-software/"
+    },
+    {
+        "title": "Appy travels: At last, Evie Autocharge simplifies the EV charging experience",
+        "description": "My Evie charging experience has elevated from gritted teeth to top of the class.",
+        "image": "https://thedriven.io/wp-content/uploads/2024/11/Kona-charging-at-Evie-site-V2.jpg?w=640",
+        "date": "2024-11-22T21:56:24.000Z",
+        "url": "https://thedriven.io/2024/11/23/appy-travels-at-last-evie-autocharge-simplifies-the-ev-charging-experience/"
+    },
+    {
         "title": "DJI unveils fresh Black Friday discounts on Mini drones",
         "description": "DJI is adding even more excitement to its Black Friday offerings as the company rolls out fresh discounts on two of its Mini drones.",
         "image": "https://i0.wp.com/dronedj.com/wp-content/uploads/sites/2/2024/07/dji-mini-3-dji-rc-deal-price-2024-sale-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",

@@ -8,7 +8,12 @@ RSS_URL = [
     "https://rss.app/feeds/v1.1/wooXvaji9Y6z0rB1.json",  # Google
     "https://rss.app/feeds/v1.1/8LS0ifUfWFdE4zgj.json",  # BBC
     "https://rss.app/feeds/v1.1/jfGvnnaGk9xLumPS.json",  # insideevs
-    "https://rss.app/feeds/v1.1/IRpIMtUGLmyhuGZv.json"
+    "https://rss.app/feeds/v1.1/IRpIMtUGLmyhuGZv.json",  # Electreck
+    "https://rss.app/feeds/v1.1/fEfSxcTtKtKjp8ce.json",  # The Driven
+    "https://rss.app/feeds/v1.1/NsCslsIvLESUVVAw.json",  # Electic vei...
+    "https://rss.app/feeds/v1.1/sz14Iel4mi2IyHYv.json",  # All news about
+    "https://rss.app/feeds/v1.1/L21uemnuMYYoiK8p.json",  # Electric cars
+    "https://rss.app/feeds/v1.1/sQmCyVrPBRbopSyi.json",  # reddit
 ]
 
 OUTPUT_PREFIX = "checkpoints/aggregate"

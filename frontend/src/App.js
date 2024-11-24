@@ -3,10 +3,12 @@ import VideoCard from "./components/VideoCard";
 import ArticleModal from "./components/ArticleModal";
 
 const App = () => {
+    const SERVER = "https://44da-2a09-80c0-192-0-42e5-a7f9-ea72-6968.ngrok-free.app"
+    // const SERVER = "http://localhost:8005"
     const [appState, setAppState] = useState([
-        { id: 1, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_1.json", isOpen: true },
-        { id: 2, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_2.json", isOpen: false },
-        { id: 3, src: "http://localhost:8005/output_0.mp4", content_url: "http://localhost:8005/article_1.json", isOpen: false },
+        { id: 1, src: `${SERVER}/output_0.mp4`, content_url: `${SERVER}/article_1.json`, isOpen: true },
+        { id: 2, src: `${SERVER}/output_0.mp4`, content_url: `${SERVER}/article_2.json`, isOpen: false },
+        { id: 3, src: `${SERVER}/output_0.mp4`, content_url: `${SERVER}/article_1.json`, isOpen: false },
     ]);
 
     const phone_color = "bg-black"
@@ -18,6 +20,8 @@ const App = () => {
             const responses = await Promise.all(appState.map((item) =>
                 fetch(item.content_url))
             );
+
+            console.log(responses)
 
 
             const data = await Promise.all(responses.map((res) => res.json()));
