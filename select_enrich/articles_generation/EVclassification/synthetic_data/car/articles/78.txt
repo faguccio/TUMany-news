@@ -1,0 +1,63 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heavy Trucks Steal the Spotlight at Annual Auto Show</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .header {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            margin: 20px;
+        }
+        .article-image {
+            max-width: 100%;
+            height: auto;
+        }
+        .comments {
+            background-color: #e9e9e9;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Heavy Trucks Steal the Spotlight at Annual Auto Show</h1>
+        <p>By: Alex Johnson | Nov 23, 2023, 10:00am ET</p>
+    </div>
+
+    <div class="content">
+        <img src="heavy-truck-auto-show.jpg" alt="Heavy Truck at Auto Show" class="article-image">
+        <p>In a spectacular display of engineering and power, the latest models of heavy trucks took center stage at the Annual Auto Show, attracting enthusiasts and industry experts alike. With the spotlight firmly on performance enhancements, manufacturers showcased cutting-edge innovations designed to improve efficiency and functionality in the trucking industry.</p>
+        
+        <h2>Cold Air Intake Systems Boost Performance</h2>
+        <p>One of the highlights of the show was the introduction of advanced cold air intake systems. These systems, designed to optimize engine airflow, promise to enhance fuel efficiency and increase horsepower. Truck owners can expect significant improvements in performance, making these vehicles more capable than ever before.</p>
+
+        <h2>Sleek Sedans Offer Impressive Mileage</h2>
+        <p>While heavy trucks dominated the show, sedans also made a mark with their focus on fuel efficiency. Several manufacturers unveiled new models boasting impressive mileage figures, challenging the perception that larger vehicles are inherently less efficient. These sedans feature state-of-the-art engine designs and aerodynamic shapes to maximize every drop of fuel.</p>
+
+        <h2>Innovative Drive Shafts Revolutionize the Industry</h2>
+        <p>Another noteworthy advancement came in the form of innovative drive shafts. Designed to handle increased torque and provide smoother rides, these new drive shafts promise to enhance durability and performance in both trucks and sedans. Experts predict that this technology will set a new standard for reliability in the automotive sector.</p>
+
+        <p>Despite the growing trend towards electrification, the auto show made it clear that traditional vehicles are not going anywhere. With improvements in efficiency and performance, manufacturers are ensuring that trucks and sedans remain competitive and relevant in today's market.</p>
+
+        <p>As the industry continues to evolve, one thing is certain: innovation will drive the future of automotive design, whether through electrification or the refinement of traditional powertrains.</p>
+    </div>
+
+    <div class="comments">
+        <h3>Join the Conversation</h3>
+        <p>AutoFan123: This year's show was amazing! The new truck models are truly a marvel of engineering.</p>
+        <p>TruckLover88: Can't wait to see these trucks on the road. The new cold air intake systems sound promising!</p>
+    </div>
+</body>
+</html>
+```

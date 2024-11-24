@@ -1,0 +1,188 @@
+
+News
+First Drives
+Electric Cars
+Hybrids
+Guides
+Green Life
+newsletter
+Home / News / Electric Cars
+Mercedes tech may enable EV batteries with mixed cell types
+Joel Feder Joel Feder November 22, 2024 1 Comment
+Mercedes-Benz has its eyes on solid-state batteries with its partnership with Factorial for battery cells, but the automaker's already thinking one step beyond that.
+
+In the future, Mercedes envisions mixed battery packs with different types of cells all wired in parallel rather than today's series arrangement. The enabling factor to this is a new micro-converter the automaker's developing in-house to replace today's electrical inverter systems.
+
+In Germany, Mercedes engineers showed working prototypes to Green Car Reports of the programmable micro-converters. The converters are about the length of a stick of gum and twice the width. They looked light and were encased in black plastic, but engineers were sure to keep us from touching the (presumably expensive) prototypes.
+
+Mercedes-Benz micro-converters
+Mercedes-Benz micro-converters
+
+The micro-converters can be connected directly to any number of cell pairs. This enables engineers to program and control individual cell pairings independently regardless of the state-of-charge. Engineers demonstrated this on a workbench, putting the mixed test cells under load and then independently turning on and off certain cell pairings.
+
+Engineers said the new micro-converters open the possibility to mix-and-match cell types, chemistries, and more for various situations. The converters could enable a pack to have LFP cells, NMC cells, and solid-state cells all together, and they could call upon different types of cells for different conditions and situations to work in their optimal operating windows. That could open a new door for performance vehicles for the automaker's AMG division.
+
+The new approach could translate to faster charging rates, longer driving range, and more flexibility in pack design, according to Mercedes' engineers.
+
+Mercedes-Benz paid for travel and lodging for Green Car Reports to bring you this information.
+
+Tags:
+Electric Cars Mercedes-Benz News 
+Contribute:
+ Send us a tip
+1 Comment
+ Contact the editor
+People who read this, also read:
+Mercedes developing solar paint for EVs
+Mercedes In-Drive moves braking system inside EV's electric motor
+Electric Chrysler Pacifica minivan plays with flexible interior
+Honda's ready to build prototype solid-state batteries for EVs
+Share This Article:
+    
+connect with the editor:
+Joel Feder Joel Feder - Senior Producer Twitter
+Follow Us Today:
+    
+Green Car Reports Newsletter
+Sign up to get the latest green car and environmental news, delivered to your inbox daily!
+
+Enter your email address…
+ Sign Up Today!
+I agree to receive emails from Green Car Reports. I understand that I can unsubscribe at any time. Privacy Policy.
+
+
+Mercedes-Benz solar paint coating
+Mercedes developing solar paint for EVs
+Joel Feder November 22, 2024
+Mercedes is working on solar paint, which is like a paste and could coat an entire vehicle.
+
+Mercedes-Benz In-Drive brake system
+Mercedes In-Drive moves braking system inside EV's electric motor
+Mercedes has reinvented the braking system for a future electric age.
+
+Joel Feder November 22, 2024
+Chrysler Portal concept, 2017 Consumer Electronics Show
+Electric Chrysler Pacifica minivan plays with flexible interior
+Chrysler's electric minivan will keep the Pacifica nameplate.
+
+Joel Feder November 22, 2024
+Northvolt lithium-ion battery cell
+Northvolt battery maker files for bankruptcy
+Northvolt went from Swedish battery darling to needing up to $1.2 billion to remain fully operational.
+
+Stephen Edelstein November 22, 2024
+Honda solid-state battery production demonstration plant in Sakura City, Japan
+Honda's ready to build prototype solid-state batteries for EVs
+Honda's one step closer to its solid-state battery future.
+
+Stephen Edelstein November 22, 2024
+2026 Kia EV9 GT
+2026 Kia EV9 GT goes fast with 501 hp, charges fast with NACS port
+The electric three-row SUV gets a performance and charge boost.
+
+Stephen Edelstein November 21, 2024
+2025 Kia EV6
+2025 Kia EV6 gets bigger battery, will be U.S.-built
+Stephen Edelstein November 21, 2024
+The refreshed electric sedan debuted at the 2024 Los Angeles auto show with a larger 68.0-kwh battery pack.
+
+2026 Kia Sportage
+2026 Kia Sportage hybrid, plug-in hybrid debut at LA auto show
+Modest horsepower increases to hybrid Sportages underscore the infotainment improvements.
+
+Stephen Edelstein November 21, 2024
+2026 Hyundai Ioniq 9
+2026 Hyundai Ioniq 9 smooths the electric SUV form
+With a sleeker, more rakish shape than its Kia EV9 cousin, the Ioniq 9 puts the emphasis on comfort, quietness, and efficiency.
+
+Bengt Halvorson November 21, 2024
+Teaser for Jaguar Design Vision concept
+Jaguar EV concept teased ahead of Dec. 2 debut
+A concept previewing Jaguar's new EV will debut in Miami on Dec. 2.
+
+Stephen Edelstein November 21, 2024
+Pre-production of BMW Neue Klasse SUV
+BMW Neue Klasse electric SUV enters pre-production status
+Early examples of BMW's next-generation electric SUV are now rolling off an assembly line.
+
+Stephen Edelstein November 21, 2024
+Load More Articles
+Related Articles
+Mercedes-Benz solar paint coating
+Mercedes developing solar paint for EVs
+Mercedes-Benz In-Drive brake system
+Mercedes In-Drive moves braking system inside EV's electric motor
+Mercedes-Benz CLA-Class EV
+2026 Mercedes CLA will get J1772 and NACS charge ports, hybrid option
+Chrysler Portal concept, 2017 Consumer Electronics Show
+Electric Chrysler Pacifica minivan plays with flexible interior
+Northvolt lithium-ion battery cell
+Northvolt battery maker files for bankruptcy
+Honda solid-state battery production demonstration plant in Sakura City, Japan
+Honda's ready to build prototype solid-state batteries for EVs
+Most Popular
+November 17, 2024
+Which electric cars have the most range?
+Bengt Halvorson - Senior Editor
+November 18, 2024
+Study: EV battery prices to drop by 50% by 2026
+Stephen Edelstein - Contributing Writer
+November 22, 2024
+Electric Chrysler Pacifica minivan plays with flexible interior
+Joel Feder - Senior Producer
+November 21, 2024
+2026 Hyundai Ioniq 9 smooths the electric SUV form
+Bengt Halvorson - Senior Editor
+November 19, 2024
+Review: 2025 GMC Sierra EV Denali multitasks to the max
+Bengt Halvorson - Senior Editor
+November 18, 2024
+Tesla Cybertruck wrap option disappears
+Stephen Edelstein - Contributing Writer
+Photos
+< 1/5 >
+Mercedes-Benz In-Drive brake system
+Mercedes In-Drive moves braking system inside EV's electric motor
+Honda solid-state battery production demonstration plant in Sakura City, Japan
+Honda's ready to build prototype solid-state batteries for EVs
+2026 Kia EV9 GT
+2026 Kia EV9 GT goes fast with 501 hp, charges fast with NACS port
+2025 Kia EV6
+2025 Kia EV6 gets bigger battery, will be U.S.-built
+2026 Kia Sportage
+2026 Kia Sportage hybrid, plug-in hybrid debut at LA auto show
+News
+Charging
+Mobility
+Sustainability
+Gas Mileage
+Hybrids
+Electric Cars
+Alt Fuels
+Diesel Cars
+Features
+Media
+Photos
+Videos
+For Dealers
+Dealer Solutions
+RSS
+All Feeds
+Master Feed
+News
+First Drives
+Electric Cars
+Hybrids
+Guides
+Green Life
+Company
+About Us
+Contact Us
+Press
+Terms of Use
+Disclaimer
+Cookie Policy
+Privacy Policy
+Manage Preferences
+Follow Us Today:
+    

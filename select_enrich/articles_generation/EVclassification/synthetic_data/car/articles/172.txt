@@ -1,0 +1,67 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breaking News: The New Frontier of Sedan ATVs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+        }
+        .article-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .comments {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div class="article-header">
+            <h1>The New Frontier: Sedan ATVs Hit the Market</h1>
+            <span>Oct 10, 2023</span>
+        </div>
+        <img src="sedan-atv.jpg" alt="Sedan ATV" style="width:100%; height:auto;">
+        <p>In a bold move that straddles the line between luxury and adventure, automotive manufacturers are rolling out a new class of vehicle that promises to revolutionize both the SUV and ATV markets. Introducing the <strong>Sedan ATV</strong>—a hybrid machine that offers the comfort of a sedan with the rugged capability of an all-terrain vehicle.</p>
+
+        <h2>Innovative Features and Design</h2>
+        <p>The new Sedan ATV models boast a range of innovative features that set them apart from traditional vehicles. Equipped with a temperature gauge that adjusts automatically to the terrain, drivers can now traverse deserts, forests, and mountains with ease. This gauge is just one part of a sophisticated system designed to optimize performance in varying environments.</p>
+
+        <h3>Pricing and Availability</h3>
+        <p>Starting at a competitive price of <em>$45,000</em>, the Sedan ATV is positioned to attract a wide range of consumers, from outdoor enthusiasts to urban dwellers seeking a versatile vehicle. Initial sales will begin in select markets, with plans for global distribution by mid-2024.</p>
+
+        <h3>Industry Reactions</h3>
+        <p>The introduction of the Sedan ATV has sparked a flurry of reactions from industry experts. Many see it as a logical step in the evolution of personal vehicles, offering a practical solution for those who want the best of both worlds. However, some critics argue that it may struggle to find a dedicated market segment.</p>
+
+        <div class="comments">
+            <h4>Top Comments</h4>
+            <p><strong>AutoEnthusiast123:</strong> Can't wait to see how this performs off-road! Finally, a vehicle that matches my lifestyle.</p>
+            <p><strong>GreenDriver:</strong> While I'm not thrilled about the potential environmental impact, it's an interesting concept. Looking forward to seeing how it evolves.</p>
+            <p><strong>RoadWarrior89:</strong> Seems like a fun ride, but how does it compare to the tried and tested SUVs?</p>
+        </div>
+    </div>
+</body>
+</html>
+```
+This HTML document is a news article that introduces the innovative concept of a Sedan ATV, blending the comfort of sedans with the capabilities of ATVs. It covers key features, pricing, and industry reactions while providing a space for reader comments.

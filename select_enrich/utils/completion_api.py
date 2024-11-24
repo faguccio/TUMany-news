@@ -1,8 +1,9 @@
 import requests
 import json
 from .util import read_api_key
+import time
 
-def completion_request(input):
+def completion_request(input, temperature = 0.7, top_p = 0.95):
     # Path to the file containing the API key
     api_key_file = "api_key.txt"
     api_key = read_api_key(api_key_file)
@@ -24,15 +25,21 @@ def completion_request(input):
             {"role": "user", "content": input}
         ],
         "max_tokens": 6000,
-        "temperature": 0.7,
-        "top_p": 0.95,
+        "temperature": temperature,
+        "top_p": top_p,
         "frequency_penalty": 0,
         "presence_penalty": 0
     }
-    
+
     # Sending the POST request
     response = requests.post(endpoint, headers=headers, json=data)
-
+    status_code = response.status_code
+    while status_code != 200:
+        print("status_code",status_code,"sleep 10 secs...")
+        time.sleep(10)
+        response = requests.post(endpoint, headers=headers, json=data)
+        status_code = response.status_code
+        
     # Handling the response
     if response.status_code == 200:
         response_data = response.json()

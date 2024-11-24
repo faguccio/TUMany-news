@@ -1,0 +1,222 @@
+Skip to Content
+
+Logo
+Research CarsChevron Down Icon
+sign in
+Car Buying Guide
+Expert Reviews
+Expert-Tested Gear
+What's My Car Worth?
+News
+HomeNews
+Mercedes-Benz Is Driving Forward to the Future
+The automaker spends billions every year on frankly exotic R&D, looking to optimize everything from braking to color customization to the supply of battery power in its future cars.
+
+By Csaba CserePublished: Nov 23, 2024
+bookmarksSave Article
+insight drivetrains efficiency hybrid powertrain workshop sindelfingen 2024
+Mercedes-Benz AG – Communications &amp; Marketing|Car and Driver
+Markus Schäfer, the chief technology officer at Mercedes-Benz, told Car and Driver that his company spends the equivalent of $7.4 to $8.4 billion every year on research and development. Most of that goes to designing, developing, and engineering new production models, but a significant portion is spent at Mercedes's Future Technology Lab.
+
+We spent a day in this special building in Stuttgart getting a sneak preview of some of the exotic future technology Mercedes is exploring. Take a deep breath, because there's a lot of it.
+
+Jump to:
+Augmented Reality
+Mixed Reality
+Virtual Reality
+Neuromorphic Computing
+Micro-Power Converters
+Solar Coatings
+Biotech Materials
+In-Drive Brakes
+Augmented Reality
+mercedes benz innovations future technologies 2024, ar drive
+Mercedes-Benz
+On the spectrum of virtual reality, augmented reality is the option most grounded in "real" reality. You don a pair of glasses that are hardly bulkier than thick-framed sunglasses. You see the real world through the lenses. But on top of this, the glasses can project another image, much as an HUD display projects an image on a car's windshield.
+
+Only this image can be much larger and contain far more elaborate information. For example, drivers wearing these glasses could see much more detailed navigation information, such as a yellow brick road overlaid on the pavement indicating where they should be driving—in our case we saw a sparkling blue carpet. At turns, we saw a large arrow in our field of view and as we approached a corner, there was a series of arrows, or chevrons, showing exactly where to turn.
+
+mercedes benz innovations future technologies 2024, ar drive
+Mercedes-Benz
+For a passenger, such augmented reality glasses could display a movie or a video game in a large image—comparable perhaps to a 60-inch TV 10 feet away.
+
+Such augmented reality glasses are already on the market. What is needed to make them work in a car is the matching software that connects with the car's systems to provide the seamless and accurate overlays. These could replace HUDs or passenger video screens with superior images and information at a lower cost.
+
+Mixed Reality
+mercedes benz innovations future technologies 2024, mixed reality configurator
+Mercedes-Benz
+This is the next stage of virtual reality, and it employs much bulkier and heavier eyewear the incorporates both external cameras and internal image projections. When you're wearing these, you still clearly see the real-world area you are in, but can also see much more.
+
+To demonstrate, Mercedes engineers conjured a three-dimensional image of a car sitting in front of us. The image was full-sized and we could move, rotate, or otherwise reposition it. The image stayed still while we walked around it viewing it from all angles, just as if it were a real car. Of course, being just an image we could walk right through it. But it was very realistic. In fact, there was a genuine car sitting on the floor next to it and the artificial image was excellent.
+
+Two people working on a car at different locations could use such technology to work on the same car and discuss details in real time. One could point at a part of the car and the other would see his hand pointing. This would bring collaboration in different offices to a new level.
+
+If I had had this tool when ordering my Porsche 911 a few years ago, I probably would have made a different color choice.
+It would also make a great sales tool in a showroom. It was possible to change the color of the car by simple pressing a button. Changing a trim package to see a different front fascia was equally simply. You could open a door and see the car's interior, which could also be color customized. If you put a chair in the right position, you could even sit inside the car and examine the interior.
+
+The image quality wasn't perfect, with the gloss of the exterior paint not quite right. But that could be fixed by using higher-resolution imagery and more computing power. It's very impressive. If I had had this tool when ordering my Porsche 911 a few years ago, I probably would have made a different color choice.
+
+Virtual Reality
+mercedes benz innovations future technologies 2024,
+Mercedes-Benz
+This is the full deal in which the image you see in your bulky headgear is utterly unrelated to your actual real-world surroundings. In our demonstration, I was positioned in a lovely home in the morning. The image was completely computer generated. When I started walking toward the front door, the system communicated with the Mercedes, which raised the garage door, drove itself out, and opened the driver's door to meet me.
+
+In reality, this would probably all be accomplished by a mixed reality setup as described above. But the goal was to demonstrate a degree of "hyper-personalized" customer experience that could make driving much easier. For example, the system might notice whether the driver had a cup of coffee at home before getting into the car and suggested driving straight to the office rather than stopping at the driver's favorite drive-through coffee shop on the way there. The possibilities are endless.
+
+Neuromorphic Computing
+mercedes benz innovation
+Mercedes-Benz
+As the development of autonomous driving systems continues, one of the problems is the large amount of energy needed to power the computers used by the system. Mercedes engineers estimate that full Level 5 autonomy might require 3000 watts of continuous power. That's enough to shorten an EVs driving range by 10 percent or more.
+
+Meanwhile, a human brain uses about 20 watts of power. One reason is that the human brain does not operate like a digital computer processing an endless number of zeros and ones, each representing a sliver of information. During computations, this information is written to and from memory in consecutive operations on a fixed clock cycle. Instead, our brains process much more detailed chunks of information in a when-needed order, which is more efficient.
+
+Neuromorphic Computing is the name for a computing syntax that operates more like a biological brain rather than a typical computer, which uses what's called the von Neumann process, named after the famed Hungarian mathematician John von Neumann.
+
+The idea is to use conventional silicon chip computers, but organize them in a way that can use data represented by what are called "spikes" rather than zeros and ones. These spikes contain more elaborate data, which are then processed more directly rather than at a fixed clock speed.
+
+The concept seems pretty wild, but the need for such an advance exists, not only for autonomous driving computers in cars, but also in general artificial intelligence computers which are driving escalating energy needs across the world.
+
+Micro-Power Converters
+mercedes benz research and development 2024
+Mercedes-Benz
+EVs are chock full of power converters. Battery voltage needs to be converted to motor voltage, direct current to alternating current, one frequency to a different one. Such converters need to be efficient lest they generate too much heat or waste excessive power. Small and light is also desirable.
+
+Mercedes-Benz researchers have developed a microconverter that can handle 600 watts of power at high efficiency. These converters can also easily adjust their conversion output. For example, they can maintain a constant output voltage even though their input voltage from a battery is dropping as the battery is discharging.
+
+The converters measure about four inches long, an inch wide, and perhaps half an inch thick at their greatest point. We say approximately, because the Mercedes engineer showing them to us would not let us hold one, even though none of the guts of the device were visible.
+
+But the potential advantages are big. The 800-volt battery used in the upcoming new CLA has its 912 cells wired in series. That means that if one cell is subpar, the entire string loses efficiency. If each cell were attached to one of these new converters, its four-volt output could be increased to 800 volts and they could all be wired in parallel. And a deficient cell would have a much smaller effect.
+
+When the motor in the EV is using low power, each battery is only producing low current, which the batteries apparently don’t like. With these power converters, some batteries could be shut off to raise current levels while maintaining proper operating voltage. It would be an electronic analog to cylinder deactivation.
+
+Another possibility would be to use different cell chemistries in a single battery, creating a beneficial mix of cells, some of which are better at producing high power with others that are better at storing power.
+
+Solar Coatings
+Perhaps the most exotic technology Mercedes showed us was a way to deposit solar cells on virtually any surface—including a car body. This solar cell coating is flexible and could cover all of a car's exterior panels.
+
+A typical car has a surface area of about 120 square feet and with the coating weighing only about one ounce for every six square feet, a car’s worth of this coating would weigh slightly over a pound. And with at thickness about a twentieth of a typical human hair, the coating would add no bulk to the car.
+
+On top of the coating, the car would be painted in a range of normal colors, using some sort of nano-particle paint that has 94 percent solar transmissivity. Since different body panels would tend to generate varying power based on their orientation to the sun, a system using these coatings would likely require 10-20 of the micro-converters described in the above section to optimize the overall output.
+
+Under ideal conditions, a car with this coating, parked outdoors and unshaded during the sunlight hours, could provide substantial power. According to the researchers, the average car in Los Angeles drives about 34 miles per day, and the solar coating could provide enough power for 29 of them.
+
+Mercedes wouldn’t tell us much about the solar coating, other than to say it wasn’t sprayed on. This one could make a real difference in the overall usability of EVs.
+
+Biotech Materials
+mercedes benz future technology biotech materials
+Mercedes-Benz
+We already see plenty of artificial materials in cars, ranging from artificial leathers to various fabrics made from sustainable materials such as bamboo. But Mercedes researchers see future materials coming from biotech research that can produce materials that are sustainable while still being much closer to traditional materials.
+
+One example was biotech leather that starts with finely ground recycled tires. By adding various proteins and bio-based polymers, a proprietary process produces a material that is similar to raw leather.
+
+It is tanned and finished just like the real thing. Moreover, it can be produces in the optimal thickness, so no splitting is required. Being a synthetic material, the finish is flawless, with no blemishes of any kind.
+
+We handled a sample of this bio-leather along with a similar swatch of real leather, both finished in black, and they looked and felt nearly identical. The only way to identify the bio-leather was due to its perfect consistency of appearance.
+
+mercedes benz future technology biotech materials
+Mercedes-Benz
+Another bio-material was artificial silk, which starts with genuine silk DNA. This DNA kick starts a couple of different bacteria stages. The result is combined with an unspecified feedstock and fermented. After various washing and drying processes, you end up with silk powder, which is then turned into silk microfibers and woven into various cloth materials. This one also looked and felt good.
+
+Both bio-materials are sustainable and very acceptable in look and feel. We suspect their adoption will depend on their cost relative to more conventional choices. After all, leather and wool also would seem sustainable, but for the burping, flatulence, and feeding of their source animals.
+
+In-Drive Brakes
+mercedes benz research and development 2024
+Mercedes-Benz
+The most mechanical innovation we saw was a new type of brake for EVs. Although Mercedes says that EVs typically use regenerative braking for 98 percent of their decelerations, they still need friction brakes for that last 2 percent—which tend to be critical needs. The reason is simple: typical EV regen can provide a maximum of 290 kW of braking power, while a maximum 1G plus stop might require 2200 kW.
+
+But because these friction brakes are not used much, their rotors tend to rust, leading to noise during application, as well as degraded appearance. And they still produce brake dust.
+
+To solve these problems, Mercedes is developing what it calls In-Drive Brakes. The idea is to move the brakes from the wheels to inside the electric drive motor at either end, where the half-shafts emerge. The prototype is shown on the rear axle, but the concept could work at both ends.
+
+The brake would not be a conventional disc brake but rather something that looks like the clutch in a manual transmission. There would be a disc that spun with the half-shaft connected to each wheel. This disc would have friction material on most of each side near the periphery and with something that looked like a non-rotating flywheel on each side. An annular hydraulic cylinder would press the assembly together causing the rotating friction disc to drag on the two fixed plates to slow the car.
+
+Since this assembly would be fully enclosed in a housing at each end of the motor housing, the two fixed plates would have liquid cooling passages to remove the heat generated by the braking. A small sump at the base of each brake housing would serve to collect the brake dust generated.
+
+mercedes benz innovations future technologies 2024, in drive brake
+Mercedes-Benz
+The goal would be for these brakes to last for the life of the car. Being enclosed, they would be quiet. And being inboard, they would leave the wheels clean, reduce unsprung weight, and allow greater freedom for wheel designers, who would no longer have to worry about getting cooling air into the brakes.
+
+The concept would work just as well with a front motor, or even without a motor. It makes a lot of sense for EVs if the costs are not much different than for conventional disc brakes. And like everything else we saw at the Mercedes Future Technology Lab, we're very much looking forward to seeing it come to fruition on future models.
+
+Headshot of Csaba Csere
+Csaba Csere
+Contributing Editor
+Csaba Csere joined Car and Driver in 1980 and never really left. After serving as Technical Editor and Director, he was Editor-in-Chief from 1993 until his retirement from active duty in 2008. He continues to dabble in automotive journalism and WRL racing, as well as ministering to his 1965 Jaguar E-type, 2017 Porsche 911, 2009 Mercedes SL550, 2013 Porsche Cayenne S, and four motorcycles—when not skiing or hiking near his home in Colorado. 
+Ready to ride shotgun with us?
+Sign up for the smartest car news out there.
+
+Email address
+What's your email address?
+LET'S GO.
+By signing up, I agree to the Terms of Use (including the dispute resolution procedures) and have reviewed the Privacy Notice.
+
+Watch Next
+ 
+Play Iconpreview for HDM All sections playlist - Car & Driver US:
+News
+2019 jeep cherokee
+Jeep Cherokee Hybrid Replacement Coming in 2025
+
+2025 porsche 911 gt3 rs manthey racing
+Porsche 911 GT3 RS Adds Manthey Racing Track Kit
+
+2024 vinfast vf9
+VinFast Starts Delivering the 2024 VF9 In the U.S.
+
+2024 lotus eletre
+Report: Lotus Backtracks on EVs, Will Offer PHEVs
+
+2025 audi rs e tron gt performance front
+912-HP Audi RS e-tron GT Performance Costs $168K
+
+2026 kia ev9 gt front
+2026 Kia EV9 GT Debuts Packing 501 Electric Horses
+
+2026 kia sportage
+2026 Kia Sportage Refreshed with Chunkier Styling
+
+2025 kia ev6
+2025 Kia EV6 GT Now Packs 641 HP and Pseudo Shifts
+
+honda solid state battery production facility 2024
+Honda Gets Closer to Making Solid-State Batteries
+
+2025 fiat 500e giorgio armani edition
+Fiat 500e Goes Luxury with Giorgio Armani Edition
+
+2025 volkwagen tiguan
+2025 VW Tiguan Adds Power, Drops a Row of Seats
+
+2025 hyundai ioniq 9
+2026 Hyundai Ioniq 9 Achieves Flagship Status
+
+Logo
+x
+youtube
+facebook
+instagram
+About Us
+News
+All Car Rankings
+Newsletter
+Contact Us
+Expert Reviews
+Best SUVs
+Give a Gift
+How We Test Cars
+Stories and Features
+Best 3-Row SUVs
+Subscribe
+How We Rate Cars
+Expert-Tested Gear
+Best Pickup Trucks
+Hearst Autos
+Customer Service
+What's My Car Worth?
+Best EVs
+RSS Feed
+Hearst Autos - A Part of Hearst Digital Media
+A Part of Hearst Digital Media
+
+We may earn a commission for purchases made through our links.
+

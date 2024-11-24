@@ -13,7 +13,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.metrics import silhouette_score
-
+import re
 
 
 import plotly.express as px
@@ -27,17 +27,27 @@ import umap.umap_ as umap
 def process_json(json_data):
     embeddings = []
     labels = []
+    ev_scores = []
     for article in json_data:
         title = article.get("title", "")
         description = article.get("description", "")
         html = article.get("html", "")
         combined_text = title + " " + description + " " + html
         print(f"Generating embedding for article: {title[:10]}...")
+        scoring_prompt = "You are a news expert, please respond with a score between 0 and 1 saying how much is the following article,"+\
+            "related to the topic of Electric Vehicles: \n" + combined_text +\
+            "\n Respond exclusively with a single floating point number. 0.5 means total uncertainty, greater than 0.5 means that is most probably related to EV. Less than 0.5 means that it's either about not electric vehicles or is about other unrelated topics."
+        ev_score = completion_request(scoring_prompt) 
+        ev_score = re.findall("\d+\.\d+", ev_score)[0]
+        if float(ev_score) <= 0.5:
+            continue 
         embedding = embedding_request_ada002(combined_text)
         if embedding is not None:
             embeddings.append(embedding)
             labels.append(title)  # Use the title as a label
-    return np.array(embeddings), labels
+        ev_scores.append(ev_score)
+        
+    return np.array(embeddings), labels, ev_scores
 
 # Dimensionality reduction using t-SNE or UMAP
 def perform_dimensionality_reduction(embeddings, method="umap", n_components=3):
@@ -147,7 +157,25 @@ def generate_big_article_from_cluster(cluster_text):
         "api-key": api_key
     }
     #Summarize articles to create context
-    messages = [{"role": "system", "content": "You are a helpful assistant providing news articles."}]
+    initial_condition = "You are a helpful journalism assistant expert providing news articles about EV (Electric vehicles). \n"+\
+        "The content you will provide for the sections must be original information, reporting, research, or analysis \n"+\
+        "You should provide a substantial, complete, or comprehensive description of the topic\n"+\
+        "take a step and reason\n"+\
+        "You should provide insightful analysis or interesting information that is beyond the obvious\n"+\
+        "take a step and reason\n"+\
+        "You should avoid simply copying or rewriting sources, and instead provide substantial additional value and originality\n"+\
+        "take a step and reason\n"+\
+        "the main heading or page title should provide a descriptive, helpful summary of the content\n"+\
+        "the main heading or page title should avoid exaggerating or being shocking in nature\n"+\
+        "You should expect to see this content in or referenced by a printed magazine, encyclopedia, or book\n"+\
+        "content should provide substantial value when compared to other pages in search results\n"+\
+        "the content present information in a way that makes you want to trust it, such as clear sourcing, evidence of the expertise involved, background about the author or the site that publishes it, such as through links to an author page\n"+\
+        "If someone researched the site producing the content, they should come away with an impression that it is well-trusted or widely-recognized as an authority on its topic\n"+\
+        "The content should be written or reviewed by an expert or enthusiast who demonstrably knows the topic well\n"+\
+        "The content should clearly demonstrate first-hand expertise and a depth of knowledge (for example, expertise that comes from having actually used a product or service, or visiting a place)\n"+\
+        "The content should be Search Engine Optimized though it shouldn't be the primary focus"
+        
+    messages = [{"role": "system", "content": initial_condition}]
     for article in cluster_text:
         messages.append(
                 {
@@ -250,10 +278,13 @@ if __name__ == "__main__":
     with open(json_file, "r", encoding="utf-8") as file:
         json_data = json.load(file)
 
-    embeddings, labels = process_json(json_data)
+    embeddings, labels, ev_scores = process_json(json_data)
 
+    print("Number of selected articles:", len(embeddings))
+    print("ev_scores:", '\n'.join(ev_scores))
+    
     # Automatically determine the number of clusters
-    max_clusters = 10  # Set a reasonable upper limit for clusters
+    max_clusters = min(10,len(embeddings)-1)  # Set a reasonable upper limit for clusters
     optimal_clusters = choose_optimal_clusters(embeddings, max_clusters)
 
     # Perform clustering on raw embeddings

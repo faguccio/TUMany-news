@@ -1,0 +1,57 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Show 2023: A Glimpse into the Future of Diesel Performance</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        header { background-color: #333; color: #fff; padding: 10px 0; text-align: center; }
+        article { margin: 20px; }
+        h1 { color: #333; }
+        h2 { color: #555; }
+        .image { width: 100%; max-width: 600px; height: auto; margin: 20px 0; }
+        .highlight { color: #e74c3c; }
+        footer { background-color: #333; color: #fff; text-align: center; padding: 10px 0; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Auto Show 2023</h1>
+    <p>Your premier source for the latest in automotive innovation</p>
+</header>
+
+<article>
+    <h2>Diesel Engines Steal the Spotlight at This Year's Auto Show</h2>
+    <img src="diesel-engine.jpg" alt="Diesel Engine" class="image">
+    <p>The <span class="highlight">Auto Show 2023</span> has officially kicked off, and amidst the sea of hybrid and alternative fuel vehicles, diesel engines have made a remarkable comeback, showcasing innovations that are set to redefine performance and efficiency in the coming years.</p>
+
+    <p>This year's event, held at the sprawling <span class="highlight">Global Motor Expo Center</span>, is drawing enthusiasts and industry professionals alike. The highlight for many is the unveiling of next-generation diesel engines that promise higher <strong>MPG</strong> and reduced emissions without compromising on power.</p>
+
+    <h3>The Power of Diesel</h3>
+    <p>Despite the growing popularity of alternative fuel vehicles, manufacturers like <strong>TurboDynamics</strong> and <strong>DieselTech</strong> are proving that diesel engines still have a lot to offer. Their latest models feature advanced turbocharging systems and enhanced fuel injection technology that optimize performance and fuel economy.</p>
+
+    <p>"Our new diesel engines are designed to meet the demands of both the environmentally conscious and the performance enthusiast," said <em>John Miller</em>, CEO of TurboDynamics, during the press briefing. "We're committed to pushing the boundaries of what diesel can achieve."</p>
+
+    <h3>Driving Simulators and Real-World Testing</h3>
+    <p>Visitors to the show can experience these diesel advancements firsthand through state-of-the-art driving simulators. These simulators offer a virtual test drive of the latest diesel models, complete with dynamic feedback on fuel efficiency and power output.</p>
+
+    <p>Real-world testing of these vehicles has shown impressive results, with some models achieving over 40 MPG while delivering the torque and horsepower that diesel is renowned for. "Our simulations are as close to reality as it gets," explained <em>Susan Chen</em>, lead engineer at DieselTech. "We want consumers to feel the difference."</p>
+
+    <h3>Revving Up for the Future</h3>
+    <p>As the industry moves towards more sustainable solutions, the role of diesel is being reimagined. Innovations on display at the Auto Show 2023 demonstrate a commitment to greener, more efficient diesel technologies that meet modern demands.</p>
+
+    <p>The future of diesel is bright, with automakers focusing on enhancing <strong>fuel pumps</strong>, reducing carbon footprints, and improving engine durability. This year's show is a testament to the enduring relevance of diesel engines in a rapidly evolving automotive landscape.</p>
+</article>
+
+<footer>
+    <p>&copy; 2023 Auto Show News. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
+```
+
+This HTML document is a fictional news article covering the highlights of the Auto Show 2023, focusing on the advancements in diesel engine technology. It avoids mentioning EVs, aligning with the prompt's constraints while still presenting a forward-looking perspective on diesel performance and efficiency.
