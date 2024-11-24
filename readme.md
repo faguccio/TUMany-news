@@ -18,7 +18,8 @@ This project was developed as part of **HackaTUM 2024**, for the **Hubert Burda 
 - **Articles enrichment**: We use prompt engineering with Google Guidelines conditioning to provide high-quality articles
 - **Streaming Data Processing**: We continually collect and scrape RSS feeds to gather batches to be analized and to generate articles with
 - **Zero-shot selection and Unsupervised pooling approach**: We filter based on relevance scores gained from catGPT, we calculate embeddings and perform k-means to understand which articles talk about the same topic and hence produce different, coherent articles
- 
+### Clustering and Prompt Engineering for enrichment
+![Prompt_engineering](prompt_engineering_clustering.png)
 
 
 ---
