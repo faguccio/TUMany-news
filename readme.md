@@ -6,7 +6,9 @@ TUMany News is a fully automated news article generator that redefines how news 
 
 ### About the Project
 
-This project was developed as part of **HackaTUM 2024**, for the **Hubert Burda Media** sponsor challenge. It demonstrates innovation in digital journalism, merging automated content creation with short-form video formats to meet the demands of a modern, fast-paced audience.
+This project was developed as part of **HackaTUM 2024**, for the **Hubert Burda Media** sponsor challenge. It demonstrates innovation in digital journalism, merging automated content creation with short-form video formats to meet the demands of a modern, fast-paced audience. 
+
+Take a look at the demo!
 
 [![Watch the Demo](https://img.youtube.com/vi/8qF9O-k_gcM/maxresdefault.jpg)](https://www.youtube.com/watch?v=8qF9O-k_gcM)
 ### Features
